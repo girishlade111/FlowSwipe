@@ -80,6 +80,30 @@ img {
   line-height: 1.42857143;
 }
 
+/* 3-column CMS row/col matching Webflow w-row + w-col-4 */
+.w-dyn-items.w-row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+}
+
+.w-col-4 {
+  width: 100%;
+  float: none;
+}
+
+@media (max-width: 991px) {
+  .w-dyn-items.w-row {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 767px) {
+  .w-dyn-items.w-row {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
 /* Accessible Focus Rings */
 a:focus-visible,
 button:focus-visible,
