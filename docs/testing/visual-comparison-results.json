@@ -1,0 +1,152 @@
+[
+  {
+    "route": "/",
+    "refHero": "docs/reference/desktop/showcase-1440-hero.png",
+    "name": "showcase",
+    "metrics": {
+      "bodyBg": "rgb(8, 8, 8)",
+      "headerHeight": 156,
+      "h1Font": "Onest, sans-serif",
+      "h1Size": "60px",
+      "overflowX": false,
+      "brokenImgs": []
+    },
+    "heroDiffPercent": 16.44,
+    "diffPath": "docs/testing/diffs/showcase-hero-diff.png"
+  },
+  {
+    "route": "/home",
+    "refHero": "docs/reference/desktop/home-1440-hero.png",
+    "name": "home",
+    "metrics": {
+      "bodyBg": "rgb(8, 8, 8)",
+      "headerHeight": 156,
+      "h1Font": "Onest, sans-serif",
+      "h1Size": "68px",
+      "overflowX": false,
+      "brokenImgs": []
+    },
+    "heroDiffPercent": 5.71,
+    "diffPath": "docs/testing/diffs/home-hero-diff.png"
+  },
+  {
+    "route": "/features",
+    "refHero": "docs/reference/desktop/features-1440-hero.png",
+    "name": "features",
+    "metrics": {
+      "bodyBg": "rgb(8, 8, 8)",
+      "headerHeight": 156,
+      "h1Font": "Onest, sans-serif",
+      "h1Size": "68px",
+      "overflowX": false,
+      "brokenImgs": []
+    },
+    "heroDiffPercent": 6.91,
+    "diffPath": "docs/testing/diffs/features-hero-diff.png"
+  },
+  {
+    "route": "/about-us",
+    "refHero": "docs/reference/desktop/about-us-1440-hero.png",
+    "name": "about-us",
+    "metrics": {
+      "bodyBg": "rgb(8, 8, 8)",
+      "headerHeight": 156,
+      "h1Font": "Onest, sans-serif",
+      "h1Size": "68px",
+      "overflowX": false,
+      "brokenImgs": []
+    },
+    "heroDiffPercent": 10.32,
+    "diffPath": "docs/testing/diffs/about-us-hero-diff.png"
+  },
+  {
+    "route": "/team",
+    "refHero": "docs/reference/desktop/team-1440-hero.png",
+    "name": "team",
+    "metrics": {
+      "bodyBg": "rgb(8, 8, 8)",
+      "headerHeight": 156,
+      "h1Font": "Onest, sans-serif",
+      "h1Size": "68px",
+      "overflowX": false,
+      "brokenImgs": []
+    },
+    "heroDiffPercent": 9.83,
+    "diffPath": "docs/testing/diffs/team-hero-diff.png"
+  },
+  {
+    "route": "/careers",
+    "refHero": "docs/reference/desktop/careers-1440-hero.png",
+    "name": "careers",
+    "metrics": {
+      "bodyBg": "rgb(8, 8, 8)",
+      "headerHeight": 156,
+      "h1Font": "Onest, sans-serif",
+      "h1Size": "68px",
+      "overflowX": false,
+      "brokenImgs": []
+    },
+    "heroDiffPercent": 7.27,
+    "diffPath": "docs/testing/diffs/careers-hero-diff.png"
+  },
+  {
+    "route": "/blog",
+    "refHero": "docs/reference/desktop/blog-1440-hero.png",
+    "name": "blog",
+    "metrics": {
+      "bodyBg": "rgb(8, 8, 8)",
+      "headerHeight": 156,
+      "h1Font": "Onest, sans-serif",
+      "h1Size": "68px",
+      "overflowX": false,
+      "brokenImgs": []
+    },
+    "heroDiffPercent": 7.12,
+    "diffPath": "docs/testing/diffs/blog-hero-diff.png"
+  },
+  {
+    "route": "/contact",
+    "refHero": "docs/reference/desktop/contact-1440-hero.png",
+    "name": "contact",
+    "metrics": {
+      "bodyBg": "rgb(8, 8, 8)",
+      "headerHeight": 156,
+      "h1Font": "Onest, sans-serif",
+      "h1Size": "68px",
+      "overflowX": false,
+      "brokenImgs": []
+    },
+    "heroDiffPercent": 6.63,
+    "diffPath": "docs/testing/diffs/contact-hero-diff.png"
+  },
+  {
+    "route": "/terms-conditions",
+    "refHero": "docs/reference/desktop/terms-conditions-1440-hero.png",
+    "name": "terms",
+    "metrics": {
+      "bodyBg": "rgb(8, 8, 8)",
+      "headerHeight": 156,
+      "h1Font": "Onest, sans-serif",
+      "h1Size": "68px",
+      "overflowX": false,
+      "brokenImgs": []
+    },
+    "heroDiffPercent": 7.18,
+    "diffPath": "docs/testing/diffs/terms-hero-diff.png"
+  },
+  {
+    "route": "/style-guide",
+    "refHero": "docs/reference/desktop/style-guide-1440-hero.png",
+    "name": "style-guide",
+    "metrics": {
+      "bodyBg": "rgb(8, 8, 8)",
+      "headerHeight": 156,
+      "h1Font": "Onest, sans-serif",
+      "h1Size": "68px",
+      "overflowX": false,
+      "brokenImgs": []
+    },
+    "heroDiffPercent": 15.53,
+    "diffPath": "docs/testing/diffs/style-guide-hero-diff.png"
+  }
+]

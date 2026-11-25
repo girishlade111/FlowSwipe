@@ -1,0 +1,53 @@
+{
+  "routesChecked": 34,
+  "routesPassed": 33,
+  "failures": [
+    {
+      "route": "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "hasH1": true,
+      "overflowX": false,
+      "brokenImages": [
+        "/assets/images/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable.avif"
+      ]
+    }
+  ],
+  "interactions": {
+    "pagesDropdownOpens": false,
+    "faqAccordion": {
+      "initialFirstOpen": true,
+      "secondOpened": true
+    },
+    "blogFilter": {
+      "allCount": 6,
+      "securityCount": 2
+    },
+    "careers": {
+      "jobAll": 6,
+      "jobFin": 2,
+      "modalVisible": true,
+      "modalClosedOnEsc": true
+    },
+    "policyTabs": {
+      "userPolicyVisible": true
+    },
+    "forms": {
+      "contactSuccess": true,
+      "ctaSuccess": true
+    }
+  },
+  "responsive": {
+    "desktop-1440": {
+      "horizontalOverflow": false
+    },
+    "tablet-768": {
+      "horizontalOverflow": false
+    },
+    "mobile-390": {
+      "horizontalOverflow": false
+    },
+    "mobile-320": {
+      "horizontalOverflow": false
+    }
+  },
+  "consoleErrors": []
+}

@@ -143,7 +143,7 @@ export function CareerDetail() {
 
           {/* Application Form */}
           <div id="apply-form" style={{ maxWidth: "820px", margin: "60px auto 0" }}>
-            <form className="contact-form-area" onSubmit={handleSubmit} noValidate>
+            <form className="contact-form-area" onSubmit={handleSubmit(onSubmit)} noValidate>
               <h2 className="card-title">Apply for {job.title}</h2>
               <div className="contact-field-area">
                 <div className="contact-field-wrap">
