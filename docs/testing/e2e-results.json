@@ -1,18 +1,9 @@
 {
   "routesChecked": 34,
-  "routesPassed": 33,
-  "failures": [
-    {
-      "route": "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
-      "hasH1": true,
-      "overflowX": false,
-      "brokenImages": [
-        "/assets/images/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable.avif"
-      ]
-    }
-  ],
+  "routesPassed": 34,
+  "failures": [],
   "interactions": {
-    "pagesDropdownOpens": false,
+    "pagesDropdownOpens": true,
     "faqAccordion": {
       "initialFirstOpen": true,
       "secondOpened": true
