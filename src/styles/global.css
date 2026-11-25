@@ -80,6 +80,48 @@ img {
   line-height: 1.42857143;
 }
 
+/* Header & Navigation Desktop/Mobile Layout */
+.navbar {
+  position: relative;
+  z-index: 20;
+}
+
+.nav-link-area {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.w-nav-link,
+.w-dropdown {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.w-nav-button {
+  display: none;
+}
+
+@media (max-width: 991px) {
+  .w-nav-menu {
+    display: none !important;
+  }
+  .w-nav-button {
+    display: flex;
+  }
+}
+
+/* Ensure banner holographic background sits above body #080808 and below main content */
+.banner-bg-area {
+  z-index: 0 !important;
+  pointer-events: none;
+}
+
+main {
+  position: relative;
+  z-index: 2;
+}
+
 /* 3-column CMS row/col matching Webflow w-row + w-col-4 */
 .w-dyn-items.w-row {
   display: grid;

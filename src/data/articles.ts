@@ -80,7 +80,7 @@ export const articlesData: Article[] = [
     thumbnailImage:
       "/assets/images/holographic/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable-thumbnail.avif",
     heroImage:
-      "/assets/images/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable.avif",
+      "/assets/images/holographic/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable.avif",
     excerpt:
       "Explore global multi-currency value preservation and frictionless borderless spending with modern digital cards.",
     seo: {

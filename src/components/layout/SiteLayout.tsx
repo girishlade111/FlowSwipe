@@ -11,6 +11,7 @@ interface SiteLayoutProps {
   description?: string;
   showCylinders?: boolean;
   hideBackground?: boolean;
+  bannerVariant?: "default" | "home";
 }
 
 export function SiteLayout({
@@ -19,6 +20,7 @@ export function SiteLayout({
   description,
   showCylinders = true,
   hideBackground = false,
+  bannerVariant = "default",
 }: SiteLayoutProps) {
   const { pathname } = useLocation();
   useFlowSwipeAnimations(pathname);
@@ -33,8 +35,10 @@ export function SiteLayout({
   }, [pathname, title, description]);
 
   return (
-    <div style={{ position: "relative", minHeight: "100vh", overflowX: "hidden" }}>
-      {!hideBackground && <BannerBackground showCylinders={showCylinders} />}
+    <div style={{ position: "relative", minHeight: "100vh", overflowX: "hidden", isolation: "isolate" }}>
+      {!hideBackground && (
+        <BannerBackground showCylinders={showCylinders} variant={bannerVariant} />
+      )}
       <Header />
       <main>{children}</main>
       <Footer />

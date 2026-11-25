@@ -47,6 +47,7 @@ export function Home() {
     <SiteLayout
       title="FlowSwipe - Smart Card Payment Platform"
       description="Manage all your purchases securely using a single smart card that streamlines payments and keeps spending simple."
+      bannerVariant="home"
     >
       {/* Home Hero & Sticky Card Sequence */}
       <div className="home-banner-area">

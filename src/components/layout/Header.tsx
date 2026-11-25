@@ -81,7 +81,13 @@ export function Header() {
                   }`}
                   aria-expanded={dropdownOpen}
                   aria-haspopup="menu"
-                  onClick={() => setDropdownOpen((o) => !o)}
+                  onClick={() => setDropdownOpen(true)}
+                  onKeyDown={(e) => {
+                    if (e.key === "Enter" || e.key === " ") {
+                      e.preventDefault();
+                      setDropdownOpen((o) => !o);
+                    }
+                  }}
                   style={{
                     background: "transparent",
                     border: 0,
