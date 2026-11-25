@@ -1,0 +1,58 @@
+[
+  {
+    "route": "/home",
+    "component": "HomeHero & CardStack",
+    "originalSource": "Webflow IX3 / GSAP 3.15",
+    "mediaType": "GSAP + CSS 3D Transform",
+    "trigger": "On Load & ScrollTrigger",
+    "localImplementation": "GSAP + CSS perspective(10000px)"
+  },
+  {
+    "route": "/home, /careers, /style-guide",
+    "component": "TestimonialVideo / CultureVideo",
+    "originalSource": "https://www.youtube.com/watch?v=setu9Ir1miY",
+    "mediaType": "YouTube Lightbox Embed",
+    "trigger": "Click Play Button",
+    "localImplementation": "Accessible VideoModal with YouTube iframe & Escape close"
+  },
+  {
+    "route": "/about-us",
+    "component": "CompanyStatistics",
+    "originalSource": "Webflow IX3 Counter",
+    "mediaType": "GSAP ScrollTrigger vertical digit roll",
+    "trigger": "Scroll into view",
+    "localImplementation": "AnimatedCounter rolling to 89M and 473+"
+  },
+  {
+    "route": "/about-us",
+    "component": "ValuesCarousel",
+    "originalSource": "Webflow Slider",
+    "mediaType": "CSS / JS horizontal track",
+    "trigger": "Arrow click / swipe",
+    "localImplementation": "ValuesCarousel with prev/next controls"
+  },
+  {
+    "route": "/careers, /home",
+    "component": "TeamTestimonials",
+    "originalSource": "Webflow Slider",
+    "mediaType": "CSS / JS horizontal track",
+    "trigger": "Arrow click / swipe",
+    "localImplementation": "TeamTestimonials slider"
+  },
+  {
+    "route": "All Pages",
+    "component": "FooterMarquee",
+    "originalSource": "Webflow IX / CSS marquee",
+    "mediaType": "CSS infinite translateX loop",
+    "trigger": "Continuous (respects prefers-reduced-motion)",
+    "localImplementation": "FooterMarquee"
+  },
+  {
+    "route": "/",
+    "component": "TemplateMontage",
+    "originalSource": "Webflow IX marquee rows",
+    "mediaType": "CSS / GSAP opposing horizontal rows",
+    "trigger": "Continuous",
+    "localImplementation": "TemplateMontage"
+  }
+]

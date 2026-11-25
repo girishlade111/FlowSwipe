@@ -1,0 +1,274 @@
+@import "./tokens.css";
+@import "./flowswipe-reference.css";
+@import "./typography.css";
+@import "./animations.css";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: var(--bg-color--dark);
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+  background-color: var(--bg-color--dark);
+  color: var(--font-color--grey);
+}
+
+img {
+  max-width: 100%;
+  display: inline-block;
+}
+
+/* Container matching Webflow 1200px container */
+.w-container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.w-layout-blockcontainer {
+  display: block;
+}
+
+.w-layout-vflex {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.w-layout-hflex {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.w-layout-grid {
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+}
+
+.w-inline-block {
+  max-width: 100%;
+  display: inline-block;
+}
+
+.w-button {
+  display: inline-block;
+  padding: 9px 15px;
+  color: #fff;
+  border: 0;
+  line-height: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.w-input,
+.w-select {
+  display: block;
+  width: 100%;
+  padding: 8px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+}
+
+/* Accessible Focus Rings */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid var(--color-focus-ring);
+  outline-offset: 2px;
+}
+
+/* Active nav & button state */
+.nav-link.active,
+.nav-link.w--current {
+  color: var(--bg-color--primary);
+}
+
+.nav-dropdown-wrapper {
+  position: relative;
+}
+
+.nav-dropdown-panel {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 170px;
+  background-color: var(--bg-color--card-bg-dark);
+  border: 1px solid var(--bg-color--border);
+  border-radius: var(--_spacing---radius--small);
+  padding: 10px 8px;
+  z-index: 90;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.55);
+}
+
+.nav-dropdown-panel .nav-dropdown-link {
+  color: var(--font-color--lite);
+  border-radius: 6px;
+  padding: 8px 12px;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.nav-dropdown-panel .nav-dropdown-link:hover,
+.nav-dropdown-panel .nav-dropdown-link.active {
+  background-color: var(--bg-color--card-bg-lite);
+  color: var(--bg-color--primary);
+}
+
+/* Mobile drawer */
+.mobile-nav-drawer {
+  background-color: var(--bg-color--card-bg-dark);
+  border-bottom: 1px solid var(--bg-color--border);
+  padding: 20px;
+  position: relative;
+  z-index: 95;
+}
+
+.mobile-nav-links {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+/* FAQ smooth accordion */
+.faq-wrap.is-open {
+  grid-template-rows: auto 1fr;
+}
+
+.faq-wrap.is-open .faq-icon {
+  background-color: var(--bg-color--primary);
+}
+
+.faq-wrap.is-open .faq-line {
+  border-color: var(--bg-color--white);
+}
+
+.faq-wrap.is-open .faq-line-vertical {
+  transform: rotate(90deg);
+  opacity: 0;
+}
+
+/* Filter Tabs */
+.card-listing-tab-link.is-active {
+  background-color: var(--bg-color--white);
+  color: var(--bg-color--black);
+}
+
+/* Policy Tabs */
+.policy-tab-link.is-active {
+  background-color: var(--bg-color--white);
+  color: var(--bg-color--black);
+}
+
+/* Modal Lightbox */
+.fs-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.86);
+  backdrop-filter: blur(8px);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.fs-modal-dialog {
+  width: 100%;
+  max-width: 960px;
+  background-color: var(--bg-color--card-bg-dark);
+  border: 1px solid var(--bg-color--border);
+  border-radius: var(--_spacing---radius--medium);
+  overflow: hidden;
+  position: relative;
+}
+
+.fs-modal-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 10;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid var(--bg-color--border);
+  background-color: rgba(15, 15, 15, 0.9);
+  color: var(--bg-color--white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+/* Form status banners */
+.form-feedback {
+  margin-top: 16px;
+  padding: 14px 18px;
+  border-radius: var(--_spacing---radius--small);
+  font-size: 15px;
+  border: 1px solid var(--bg-color--border);
+  background-color: var(--bg-color--card-bg-lite);
+}
+
+.form-feedback--success {
+  color: var(--bg-color--white);
+  border-color: rgba(34, 197, 94, 0.45);
+}
+
+.form-feedback--error {
+  color: #fca5a5;
+  border-color: rgba(239, 68, 68, 0.45);
+}
+
+.field-error {
+  color: #f87171;
+  font-size: 13px;
+  margin-top: 4px;
+}
+
+/* Interactive globe card visibility on hover/focus/active */
+.globe-location-wrap {
+  cursor: pointer;
+}
+
+.globe-location-wrap:hover .globe-card-wrap,
+.globe-location-wrap:focus-within .globe-card-wrap,
+.globe-location-wrap.is-active .globe-card-wrap {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+}
+
+/* Values & Testimonial Carousel */
+.fs-carousel-viewport {
+  overflow: hidden;
+  width: 100%;
+}
+
+.fs-carousel-track {
+  display: flex;
+  gap: 24px;
+  transition: transform 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: transform;
+}
+
+@media (max-width: 991px) {
+  .w-container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}

@@ -1,0 +1,68 @@
+@keyframes flowswipe-marquee-left {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+@keyframes flowswipe-marquee-right {
+  0% {
+    transform: translate3d(-50%, 0, 0);
+  }
+  100% {
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes flowswipe-float-subtle {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0);
+  }
+  50% {
+    transform: translate3d(0, -8px, 0);
+  }
+}
+
+.fs-marquee-track {
+  display: flex;
+  width: max-content;
+  will-change: transform;
+  animation: flowswipe-marquee-left 36s linear infinite;
+}
+
+.fs-marquee-track--reverse {
+  animation: flowswipe-marquee-right 42s linear infinite;
+}
+
+.fs-marquee-track--slow {
+  animation-duration: 50s;
+}
+
+.fs-marquee-pause:hover .fs-marquee-track {
+  animation-play-state: paused;
+}
+
+.fs-float-subtle {
+  animation: flowswipe-float-subtle 6s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fs-marquee-track,
+  .fs-marquee-track--reverse,
+  .fs-float-subtle {
+    animation: none !important;
+  }
+
+  [animate],
+  [animate-banner],
+  [animate-text],
+  [image],
+  [image-banner],
+  [card="item"] {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}

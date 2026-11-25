@@ -1,0 +1,45 @@
+:root {
+  --bg-color--dark: #080808;
+  --_typography---font-family--common: Onest, sans-serif;
+  --font-color--grey: #b6b6b6;
+  --_font-size---paragraph--default: 18px;
+  --_font-size---line-height--regular: 150%;
+  --_typography---font-weight--regular: 400;
+  --bg-color--white: white;
+  --_font-size---heading--h1: 56px;
+  --_font-size---line-height--heading: 120%;
+  --_typography---font-weight--medium: 500;
+  --_font-size---heading--h2: 40px;
+  --_typography---font-weight--semi-bold: 600;
+  --_font-size---heading--h3: 34px;
+  --_font-size---heading--h4: 30px;
+  --_font-size---heading--h5: 24px;
+  --_font-size---heading--h6: 20px;
+  --bg-color--primary: #c45003;
+  --bg-color--card-bg-lite: #1f1f1f;
+  --_spacing---radius--x-large: 24px;
+  --bg-color--card-bg-dark: #0f0f0f;
+  --font-color--lite: #ccc;
+  --bg-color--transparent: #0000;
+  --bg-color--border: #262626;
+  --_spacing---radius--small: 8px;
+  --_font-size---line-height--button: 100%;
+  --_font-size---paragraph--x-small: 14px;
+  --_spacing---section-space--regular: 120px;
+  --_font-size---line-height--medium: 130%;
+  --_spacing---radius--medium: 16px;
+  --_font-size---paragraph--small: 16px;
+  --_typography---font-weight--bold: 700;
+  --_spacing---section-space--small: 60px;
+  --_spacing---radius--large: 20px;
+  --_spacing---radius--circle: 100%;
+  --bg-color--black: #000;
+}
+
+/* Semantic aliases & focus tokens */
+:root {
+  --color-primary-hover: #b04602;
+  --color-focus-ring: #ff7a1a;
+  --color-error: #ef4444;
+  --color-success: #22c55e;
+}

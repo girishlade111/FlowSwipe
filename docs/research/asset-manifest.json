@@ -412,7 +412,9 @@
     "licenseStatus": "Verified free personal & commercial use (FlowSwipe Licenses page)",
     "acquisitionStatus": "acquired",
     "sha256": "9306666e431fd2dc51c3d0c619c6d8ee702f36fcb2eb4bee6f73be89fec97717",
-    "optimizedVariants": [],
+    "optimizedVariants": [
+      "public/assets/optimized/e985b085e7d6e705be9e10b13abd4a4c_figma-file-image-960.webp"
+    ],
     "notes": "figma-file-image"
   },
   {
@@ -1556,7 +1558,9 @@
     "licenseStatus": "Verified free personal & commercial use (FlowSwipe Licenses page)",
     "acquisitionStatus": "acquired",
     "sha256": "34e55ae08981de99b6096cd29d4d05c49284baeab36cee6b4b8a9fbe749921b2",
-    "optimizedVariants": [],
+    "optimizedVariants": [
+      "public/assets/optimized/figma-bg-960.webp"
+    ],
     "notes": ""
   },
   {
@@ -2076,7 +2080,9 @@
     "licenseStatus": "Verified free personal & commercial use (FlowSwipe Licenses page)",
     "acquisitionStatus": "acquired",
     "sha256": "de8a039299815b680ecdea9c30599dddb6bceb0040efe2f9b19a8ec95aea370e",
-    "optimizedVariants": [],
+    "optimizedVariants": [
+      "public/assets/optimized/3a5e04130ac78d942f5aa55aec296db7_integration-img-3-960.webp"
+    ],
     "notes": "Dashboard interface of CardFlow showing a Payment Overview with a total balance of $40,550 and navigation menu with Dashboard, Payments, Reports, and Settings."
   },
   {
@@ -2674,7 +2680,9 @@
     "licenseStatus": "Verified free personal & commercial use (FlowSwipe Licenses page)",
     "acquisitionStatus": "acquired",
     "sha256": "422c5fdc3f7b95e83fa9d141f7e392c03b224a6ef2438a1b890dee46fb1881bd",
-    "optimizedVariants": [],
+    "optimizedVariants": [
+      "public/assets/optimized/441d19218f33d60839888b4e9ce4dca7_bg-flare-dotted-960.webp"
+    ],
     "notes": ""
   },
   {
@@ -2882,7 +2890,9 @@
     "licenseStatus": "Verified free personal & commercial use (FlowSwipe Licenses page)",
     "acquisitionStatus": "acquired",
     "sha256": "47b9370da9c6431c42a6338392911e3f37569976475b6499e987be10d61314aa",
-    "optimizedVariants": [],
+    "optimizedVariants": [
+      "public/assets/optimized/926a7a7f88f52cf9fc0ab5788c43f707_globe-img-960.webp"
+    ],
     "notes": "Abstract globe with colorful light trails and faint continents visible."
   },
   {
@@ -3662,7 +3672,9 @@
     "licenseStatus": "Verified free personal & commercial use (FlowSwipe Licenses page)",
     "acquisitionStatus": "acquired",
     "sha256": "e6848b11932079e21f6d4ad5bf04fa67682ab5eb6a0ba52c06221ca5805b0c8f",
-    "optimizedVariants": [],
+    "optimizedVariants": [
+      "public/assets/optimized/7d30f78078cf013afcf961ed0474d239_style-guide-img-960.webp"
+    ],
     "notes": "Three glowing orange panels with white pixel art icons above a stylized, curved globe with highlighted continents and map markers."
   },
   {
