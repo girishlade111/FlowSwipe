@@ -13,8 +13,8 @@ import { careerTestimonialsData } from "../data/testimonials";
 
 const JOB_FILTERS: Array<"All" | JobCategory> = ["All", "Technology", "Finance", "Security"];
 
-export function Careers() {
-  const [activeFilter, setActiveFilter] = useState<"All" | JobCategory>("All");
+export function Careers({ initialCategory }: { initialCategory?: JobCategory }) {
+  const [activeFilter, setActiveFilter] = useState<"All" | JobCategory>(initialCategory || "All");
   const [cultureVideoOpen, setCultureVideoOpen] = useState(false);
 
   const visibleJobs =
