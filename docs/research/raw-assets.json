@@ -1,0 +1,2525 @@
+[
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/css/flowswipe-template.webflow.shared.293018137.css",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6a5efdcb45b73ba8548eb5f2_CardFlow%20Icon%20White.png",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6a5efddaffba80ec63d48cf0_CardFlow%20Icon%20Dark.png",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6a5efdcab9e26d3d63b21614_CardFlow%20Icon%20White.png",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6a5efdcaa073c40639f57378_CardFlow%20Icon%20White.png",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6a5efdca9e62efff171de791_CardFlow%20Icon%20White.png",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6a5efdcb67f326ac0061f6fa_CardFlow%20Icon%20White.png",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6948ee8a7585b67be74e6128_5daba5ebb55985e0f4ad4f26632527f2_cardflow-logo.svg",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd507684d_5af82d09f979b2bcda78e8214ffffe40_animation-image-1.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd507684d_5af82d09f979b2bcda78e8214ffffe40_animation-image-1-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd507685f_9a35eed7290904814fb671230501a1e8_animation-image-2.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd507685f_9a35eed7290904814fb671230501a1e8_animation-image-2-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076853_36063a114863b7e0dab3279465bb4147_animation-image-3.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076853_36063a114863b7e0dab3279465bb4147_animation-image-3-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076865_c90245dd9b3160a3ddac655742f8ab2a_animation-image-4.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076865_c90245dd9b3160a3ddac655742f8ab2a_animation-image-4-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836d9eb208fddd507683d_9f1cda5d490d1c29fb1ca76e494f6191_animation-image-5.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836d9eb208fddd507683d_9f1cda5d490d1c29fb1ca76e494f6191_animation-image-5-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076859_3d20e92dd105a11b0ee9aae6b6324bcf_animation-image-6.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076859_3d20e92dd105a11b0ee9aae6b6324bcf_animation-image-6-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076859_3d20e92dd105a11b0ee9aae6b6324bcf_animation-image-6-p-800.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd507686b_6c23e1bcaad1b8af2d2cd21a601b2eec_animation-image-7.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd507686b_6c23e1bcaad1b8af2d2cd21a601b2eec_animation-image-7-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076871_c144dbfa8b2f2a8416556b5dd8e4fd43_animation-image-8.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076871_c144dbfa8b2f2a8416556b5dd8e4fd43_animation-image-8-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076871_c144dbfa8b2f2a8416556b5dd8e4fd43_animation-image-8-p-800.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076877_576f66256d2918835ff83a7346f115fa_animation-image-9.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076877_576f66256d2918835ff83a7346f115fa_animation-image-9-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd507687d_e9d262aa2a89a6cb90ff0e4ae3aeb563_animation-image-10.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd507687d_e9d262aa2a89a6cb90ff0e4ae3aeb563_animation-image-10-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076882_504031fb9031f47d27093d56a4d5fb44_page-image.png",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076886_395f4748f544cfbd8c2ccfa34086a05c_section-image.png",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd507688a_3705699b94f6985d7e75356c29e2b00b_component-image.png",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd507688d_figma-logo.svg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076892_e985b085e7d6e705be9e10b13abd4a4c_figma-file-image.png",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076892_e985b085e7d6e705be9e10b13abd4a4c_figma-file-image-p-500.png",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076892_e985b085e7d6e705be9e10b13abd4a4c_figma-file-image-p-800.png",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076892_e985b085e7d6e705be9e10b13abd4a4c_figma-file-image-p-1080.png",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076899_0ac83c8fcb886d39ba5376174f809d0f_main-image-1.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076899_0ac83c8fcb886d39ba5376174f809d0f_main-image-1-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd507689d_2e9195365e329cb2dd867759275d4192_main-image-2.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd507689d_2e9195365e329cb2dd867759275d4192_main-image-2-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768a1_389f13f7843f08773389cc497ec12534_main-image-3.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768a1_389f13f7843f08773389cc497ec12534_main-image-3-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768a5_0abce629c1cac3218956767a8ea7051f_main-image-4.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768a5_0abce629c1cac3218956767a8ea7051f_main-image-4-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768a9_2f2cb2c55b3a0ee683637cc98725bf50_main-image-5.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768a9_2f2cb2c55b3a0ee683637cc98725bf50_main-image-5-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768ad_1be19f1d2619712d7a47d34f2b4473bf_main-image-6.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768ad_1be19f1d2619712d7a47d34f2b4473bf_main-image-6-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768b1_6f0a3628fd2d70a38a705186b60a3920_main-image-7.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768b1_6f0a3628fd2d70a38a705186b60a3920_main-image-7-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768b5_9e461571fa9a6dd4724c3ddf76e3a0f3_main-image-8.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768b5_9e461571fa9a6dd4724c3ddf76e3a0f3_main-image-8-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768b9_c5b9739400392a5ee4ae6e05b3c1e759_main-image-9.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768b9_c5b9739400392a5ee4ae6e05b3c1e759_main-image-9-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae83a73d883432b312c9a93_edfe62fdbfadd1acec3c3cd506d9a526_main-img-10.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae83a73d883432b312c9a93_edfe62fdbfadd1acec3c3cd506d9a526_main-img-10-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae83a73f56a03d13d63581f_main-img-11.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae83a73f56a03d13d63581f_main-img-11-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768bd_1f9012d0dfd5a53ccb7585e335798983_utility-image-1.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768bd_1f9012d0dfd5a53ccb7585e335798983_utility-image-1-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768c1_de382ee9e9e3b8a2b10dc31fca0940de_utility-image-2.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768c1_de382ee9e9e3b8a2b10dc31fca0940de_utility-image-2-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768c5_4a6435522f9e983b8423618aa5d443ab_utility-image-3.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768c5_4a6435522f9e983b8423618aa5d443ab_utility-image-3-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae8395afa9aa907203edf2f_utility-img-4.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae8395afa9aa907203edf2f_utility-img-4-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768c9_cf297ec98dbfa1e019b7431627bf4a36_utility-image-4.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768c9_cf297ec98dbfa1e019b7431627bf4a36_utility-image-4-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768cd_ec0540aaef9a6b92046eeae3db627a48_utility-image-5.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768cd_ec0540aaef9a6b92046eeae3db627a48_utility-image-5-p-500.jpg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768d1_077f2a5d1eb5ccb0fe9513e6c88301db_styleguide-image.png",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768e2_d149070e115bf0539371265ef1d704e5_designer-arrow.svg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768e3_6b0d130daee08932fddc65d2c0da29df_marketing-image-1.png",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768e8_76b0a61bfc1edb30c7a9d57ce2553092_marketing-image-3.png",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768ee_ac4370b357682a69930f59278bb88962_social-asset-image.png",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768ee_ac4370b357682a69930f59278bb88962_social-asset-image-p-500.png",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768f3_feature-icon-1.svg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768f4_feature-icon-2.svg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768f5_feature-icon-3.svg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768f6_feature-icon-4.svg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768f7_feature-icon-5.svg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768f8_feature-icon-6.svg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768f9_feature-icon-7.svg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768fa_feature-icon-8.svg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768fe_539f13e87fdc73587c464c202f012b91_responsive-mobile-image.png",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768fe_539f13e87fdc73587c464c202f012b91_responsive-mobile-image-p-500.png",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076907_defa05ed46f69b4e32f0732d8a5816a0_cta-image-1.png",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd507690c_webflow-icon.svg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd507690e_cta-image-2.png",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd507690e_be894d15d13eb7612387d34e4716b223_cta-image-2-p-500.png",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076911_victorflow-logo.svg",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6948f50be9c7d588c776b289_13d53384b5bf38b459f7b4438190416f_banner-bg-image.avif",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6948f50be9c7d588c776b289_13d53384b5bf38b459f7b4438190416f_banner-bg-image-p-500.avif",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69ca1f85487bdc468ef0f69c_fb.svg",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69ca1f7cbb63746a0319ce41_insta.svg",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69785d83594edb5a2d4df6a8_Linkedin.svg",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69785ddf96149ab71236c605_X.svg",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae83fd9f360d1d1f995b24f_buy-template-badge.png",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae83fd9f360d1d1f995b24c_more-template-badge.png",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae83fd9f360d1d1f995b251_hireus-close-badge.svg",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/js/webflow.schunk.36b8fb49256177c8.js",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/js/webflow.schunk.bead72f79c6f6f42.js",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/js/webflow.c515a020.09e0e2e2815f2d05.js",
+    "pages": [
+      "/"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/gsap/3.15.0/gsap.min.js",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/gsap/3.15.0/ScrollTrigger.min.js",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/gsap/3.15.0/SplitText.min.js",
+    "pages": [
+      "/",
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ad200433634a3fb4824ccb8_FlowSwipe%20-%20Smart%20Card%20Payment%20Webflow%20Template.webp",
+    "pages": [
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6948f14084b11232fa97b3b7_subtitle-star.svg",
+    "pages": [
+      "/home",
+      "/features",
+      "/about-us",
+      "/team",
+      "/careers",
+      "/blog",
+      "/contact",
+      "/terms-conditions",
+      "/style-guide",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/698c4fdde72fb7b630c694c2_9e569bbcbe9076a55511208b12bbb84c_Card.webp",
+    "pages": [
+      "/home"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694a2dfa91cc3e80813307cf_5a12ed3417ce6ac3f3320a7007a6b8bc_Card%20Cover.svg",
+    "pages": [
+      "/home"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694a30eb46f2e40579c4439e_898ebad10d8894d22148514903f3294b_Arc.svg",
+    "pages": [
+      "/home"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694a39453aecb38b463e9754_logo-01.svg",
+    "pages": [
+      "/home"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694a39919b4a755c5878584a_logo-02.svg",
+    "pages": [
+      "/home"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694a3999607a1c7c86922aa3_logo-03.svg",
+    "pages": [
+      "/home"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694a39a1687f377ba71b4a8d_logo-04.svg",
+    "pages": [
+      "/home"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694a39d4d8100755ed75d566_logo-06.svg",
+    "pages": [
+      "/home"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694a39e0f3e54657b0081073_logo-07.svg",
+    "pages": [
+      "/home"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694a3d60d28e90fe00b32e65_1a13d599c4b787b680d0cfae14e4f4ed_features-img-2.avif",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694a3df165b4f60fcc0a7649_features-img-3.avif",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/698c54e21450fcfb0773eb1c_592555471bb2574c9b05da564117fddf_integration-img-1-details.png",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/698c54e21450fcfb0773eb1c_592555471bb2574c9b05da564117fddf_integration-img-1-details-p-500.png",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/698c54501841c75d9b79531e_integration-img-1-new.avif",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/698c54501841c75d9b79531e_integration-img-1-new-p-500.avif",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/698c54501841c75d9b79531e_integration-img-1-new-p-800.avif",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6989a38ec0bb4fc35d19c80d_09c4eca8ff8b3c3232132f1419aa260b_integration-img-1-bg.avif",
+    "pages": [
+      "/home",
+      "/features",
+      "/contact"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e22d935c2aa0e642f1f03_integration-img-2.avif",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e22d935c2aa0e642f1f03_integration-img-2-p-500.avif",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e2699a8ee83c48fa0a080_3a5e04130ac78d942f5aa55aec296db7_integration-img-3.webp",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e2699a8ee83c48fa0a080_3a5e04130ac78d942f5aa55aec296db7_integration-img-3-p-500.webp",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e2699a8ee83c48fa0a080_3a5e04130ac78d942f5aa55aec296db7_integration-img-3-p-800.webp",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e2699a8ee83c48fa0a080_3a5e04130ac78d942f5aa55aec296db7_integration-img-3-p-1080.webp",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e2c6523cf80d39cb322ab_Grains.svg",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6989a5ae0b4f5a0337de72fc_ApplePodcastsLogo.svg",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69c371ba117a94f195513c96_globe-icon.svg",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e283a1808d755ac2c4307_2215b720cec904a5cf7e81a6d83d9eb3_payment-img.webp",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e283a1808d755ac2c4307_2215b720cec904a5cf7e81a6d83d9eb3_payment-img-p-500.webp",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e283a1808d755ac2c4307_2215b720cec904a5cf7e81a6d83d9eb3_payment-img-p-800.webp",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e283a1808d755ac2c4307_2215b720cec904a5cf7e81a6d83d9eb3_payment-img-p-1080.webp",
+    "pages": [
+      "/home",
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/698c583fc25e7b6bda9eb394_testimonial-img-02.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e321b443a7905a3652aff_quote.svg",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e2fe098bd68220e415922_testimonial-img-01.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6965dcf9545eb9d499e750ce_career-testimonial-img.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6965dcf9545eb9d499e750ce_career-testimonial-img-p-500.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6965dcf9545eb9d499e750ce_career-testimonial-img-p-800.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6965dcf9545eb9d499e750ce_career-testimonial-img-p-1080.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6a5ef907c79728b9ccb860b3_play-icon.svg",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69c376ecf9d0633bda1cfea7_testimonial-img-04.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/698c584a70164f409e0204f4_testimonial-img-03.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69c378b80fc02305c24d070f_career-testimonial-img-02.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69c378b80fc02305c24d070f_career-testimonial-img-02-p-500.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69c378b80fc02305c24d070f_career-testimonial-img-02-p-800.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69c378b80fc02305c24d070f_career-testimonial-img-02-p-1080.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69c378ca0c92a90bdb9d3b22_career-testimonial-img-03.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69c378ca0c92a90bdb9d3b22_career-testimonial-img-03-p-500.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69c378ca0c92a90bdb9d3b22_career-testimonial-img-03-p-800.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69c378ca0c92a90bdb9d3b22_career-testimonial-img-03-p-1080.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69c378d7a0f3a7afc31e1546_career-testimonial-img-04.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69c378d7a0f3a7afc31e1546_career-testimonial-img-04-p-500.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69c378d7a0f3a7afc31e1546_career-testimonial-img-04-p-800.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69c378d7a0f3a7afc31e1546_career-testimonial-img-04-p-1080.avif",
+    "pages": [
+      "/home",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e3a9ede85799923ced710_Hand%20Image.avif",
+    "pages": [
+      "/home"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e3a9ede85799923ced710_Hand%20Image-p-500.avif",
+    "pages": [
+      "/home"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e3c4279361502f8c2ac90_hand-bg-icons.svg",
+    "pages": [
+      "/home"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6a86f9514d56dcd012b360d4_How%20to%20Enabling%20global%20spending%20with%20ease%20and%20growing%20confidence%20thumbnail.avif",
+    "pages": [
+      "/home",
+      "/blog",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69661cd98b9dab78fdae8c5d_arrow.svg",
+    "pages": [
+      "/home",
+      "/blog",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6a86f939e4ee84e35bf71859_A%20Practical%20Guide%20to%20effortless%20expense%20reporting%20made%20simple%20and%20smart%20thumbnail.avif",
+    "pages": [
+      "/home",
+      "/blog",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6a86f8e2159f820439e9f4b6_Smart%20Collector%20Tips%20for%20global%20currency%20coins%20timeless%2C%20diverse%2C%20and%20valuable%20thumbnail.avif",
+    "pages": [
+      "/home",
+      "/blog",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e69d80299810b10ee5d79_Curve%20Dotted%20Lines.svg",
+    "pages": [
+      "/home"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e6c131f483d9d55010580_c33f058d6d708e7572d410a8fc424b4c_Card%20Cover%20Bottom.svg",
+    "pages": [
+      "/home"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/js/webflow.schunk.f919141e3448519b.js",
+    "pages": [
+      "/home",
+      "/careers",
+      "/style-guide"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/js/webflow.schunk.bdf58efcee47c042.js",
+    "pages": [
+      "/home",
+      "/about-us",
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/js/webflow.c02a38d1.e6f8b2f14fb64c29.js",
+    "pages": [
+      "/home"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694a3d60d28e90fe00b32e65_1a13d599c4b787b680d0cfae14e4f4ed_features-img-2-p-500.avif",
+    "pages": [
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/695259e0dfe082e7453b68f7_features-lock-img.avif",
+    "pages": [
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69525afb9e4fc1a3e9febe86_features-case-img.avif",
+    "pages": [
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69525bd3a299a1f8467c555d_e0fc689f34f70f7f81e88b6ae7413595_features-coin-img.avif",
+    "pages": [
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6989a813091c04a2f23c6143_features-img-6.avif",
+    "pages": [
+      "/features"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/js/webflow.a2322535.4c92d6c8f24cb92e.js",
+    "pages": [
+      "/features",
+      "/contact",
+      "/licenses",
+      "/changelog",
+      "/instructions",
+      "/401",
+      "/404",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ad0bc1219616008c9b0afc2_rocket-img.jpg",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ad0bc1219616008c9b0afc2_rocket-img-p-500.jpg",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ad0bc1219616008c9b0afc2_rocket-img-p-800.jpg",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694e700c68be7d26f74bd09e_Dotted%20Pattern.avif",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6979c8b790001db6e9c34a9b_926a7a7f88f52cf9fc0ab5788c43f707_globe-img.webp",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6979c8b790001db6e9c34a9b_926a7a7f88f52cf9fc0ab5788c43f707_globe-img-p-500.webp",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6979c8b790001db6e9c34a9b_926a7a7f88f52cf9fc0ab5788c43f707_globe-img-p-800.webp",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6979c8b790001db6e9c34a9b_926a7a7f88f52cf9fc0ab5788c43f707_globe-img-p-1080.webp",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6979cac0d26ea464b8a43f08_location-icon.svg",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6979cb9d25505ed9aa485f7a_1923605393ea970767e7509daf0da743_globe-img-05.avif",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6949134c7114b734f4ebb08e_arrow.svg",
+    "pages": [
+      "/about-us",
+      "/style-guide"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6979d1da80812231a46d1ae6_globe-img-03.avif",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6979d1eccb9cc30a656cae68_globe-img-02.avif",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6979d1fb56f6bf87d4351196_globe-img-01.avif",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69525104486e9092fc6ae7bf_mission-img-01.avif",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69525104486e9092fc6ae7bf_mission-img-01-p-500.avif",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69525104486e9092fc6ae7bf_mission-img-01-p-800.avif",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6952520c6236dd5d9d96637b_mission-img-02.avif",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6952520c6236dd5d9d96637b_mission-img-02-p-500.avif",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6952520c6236dd5d9d96637b_mission-img-02-p-800.avif",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6952522972f00d33b1b59730_mission-img-03.avif",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6952522972f00d33b1b59730_mission-img-03-p-500.avif",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6952522972f00d33b1b59730_mission-img-03-p-800.avif",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6952524a1f07ca7587171555_mission-img-04.avif",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6952524a1f07ca7587171555_mission-img-04-p-500.avif",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6952524a1f07ca7587171555_mission-img-04-p-800.avif",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/js/webflow.18c84eda.a728558ed779e784.js",
+    "pages": [
+      "/about-us"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/696783dc5a9fb906adf300c9_e915c55fc7435cbdb3f0ae1a9ce90453_Team-banner.avif",
+    "pages": [
+      "/team"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/696783dc5a9fb906adf300c9_e915c55fc7435cbdb3f0ae1a9ce90453_Team-banner-p-500.avif",
+    "pages": [
+      "/team"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/696783dc5a9fb906adf300c9_e915c55fc7435cbdb3f0ae1a9ce90453_Team-banner-p-800.avif",
+    "pages": [
+      "/team"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/696783dc5a9fb906adf300c9_e915c55fc7435cbdb3f0ae1a9ce90453_Team-banner-p-1080.avif",
+    "pages": [
+      "/team"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/697c7fbe60017be49b92d8bb_team-img-3.avif",
+    "pages": [
+      "/team",
+      "/team/mark"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69785dd78e6bd8e828eec7b2_Threads.svg",
+    "pages": [
+      "/team",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/69bceacb56f3101d644e52cd_jacob.avif",
+    "pages": [
+      "/team",
+      "/team/jacob"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/69c3a8bc59afcc547d2a2505_Rodriguez.avif",
+    "pages": [
+      "/team",
+      "/team/rodriguez"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/js/webflow.04df4855.de68cda4465da8af.js",
+    "pages": [
+      "/team"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/695260cca037c5271b933627_32fc8a019158b0be6a4b1395a985a80f_mic-img.avif",
+    "pages": [
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/695260cca037c5271b933627_32fc8a019158b0be6a4b1395a985a80f_mic-img-p-500.avif",
+    "pages": [
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/695260cca037c5271b933627_32fc8a019158b0be6a4b1395a985a80f_mic-img-p-800.avif",
+    "pages": [
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6949110fcb96dd8ac5a4fdb3_play-icon.svg",
+    "pages": [
+      "/careers",
+      "/style-guide"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69526673cd57524bbcda9f61_home.avif",
+    "pages": [
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69526847f5351c4fa6beefe5_lightning.avif",
+    "pages": [
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6965ffdf7cea53bd6da3305a_Clock.svg",
+    "pages": [
+      "/careers",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/696604a6a6ad13458e667860_BagSimple.svg",
+    "pages": [
+      "/careers",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69492a82712ca619de86bf52_location.svg",
+    "pages": [
+      "/careers",
+      "/style-guide",
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez",
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/js/webflow.schunk.121b0d7ff03e0f4a.js",
+    "pages": [
+      "/careers",
+      "/blog",
+      "/terms-conditions"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/js/webflow.492f8c96.9f81b929ea9facae.js",
+    "pages": [
+      "/careers"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6a86f8f4dbdb6a1fb6d34428_Your%20Essential%20Guide%20to%20secure%20and%20global%20transactions%20built%20on%20trust%20and%20speed%20thumbnail.avif",
+    "pages": [
+      "/blog",
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6a86f8b89aa3933e4d123f61_essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful-thumbnail.jpg",
+    "pages": [
+      "/blog"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6a86f8b89aa3933e4d123f61_essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful-thumbnail-p-500.jpg",
+    "pages": [
+      "/blog"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6a86f915f576691aca829559_Advanced%20Analytics%20Guide%20to%20transaction%20performance%20optimization%20and%20insights%20thumbnail.avif",
+    "pages": [
+      "/blog"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/js/webflow.5cc47730.0908304ee346a577.js",
+    "pages": [
+      "/blog",
+      "/terms-conditions"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/696748643dbfd393b7a9b91e_Headphone%20Image.avif",
+    "pages": [
+      "/contact"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/696749f167c9fc6051161020_Message%20Image.avif",
+    "pages": [
+      "/contact"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/696749fa06daef628f6d3b38_Exclamation%20Image.avif",
+    "pages": [
+      "/contact"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69492b78e46b0d9b1af7fa60_wave-icon.svg",
+    "pages": [
+      "/style-guide"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69492c6f1ddedb50c5637b15_7d30f78078cf013afcf961ed0474d239_style-guide-img.avif",
+    "pages": [
+      "/style-guide"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/js/webflow.75e60d91.ff2465217762803d.js",
+    "pages": [
+      "/style-guide"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69787e1ef5550d82c47d4f41_lock-img.avif",
+    "pages": [
+      "/401"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/697880e834aff9219915ac71_b281b26f76aba2d76a1f580e47ec91d4_404.avif",
+    "pages": [
+      "/404"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/697880e834aff9219915ac71_b281b26f76aba2d76a1f580e47ec91d4_404-p-500.avif",
+    "pages": [
+      "/404"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/69785bbb2c7a21f24ff1035c_tools-1.svg",
+    "pages": [
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/69785bbba2a84df058263fd9_tools-2.svg",
+    "pages": [
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/69785bbb47ca8bbc65eebc69_tools-3.svg",
+    "pages": [
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/69785bbb80804f025ab1b26e_tools-4.svg",
+    "pages": [
+      "/team/jacob",
+      "/team/mark",
+      "/team/rodriguez"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/69cbc79bc10b1b41159fc7f8_Principal%20Lead%20Fintech%20Product%20Manager.avif",
+    "pages": [
+      "/careers/principal-lead-fintech-product-manager"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6965e2397680c8bf0f8fa812_highilight-icon-1.svg",
+    "pages": [
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6965e2331dc9fed775a977a6_highilight-icon-2.svg",
+    "pages": [
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6965e2357398f57d9e51ceac_highilight-icon-3.svg",
+    "pages": [
+      "/careers/principal-lead-fintech-product-manager",
+      "/careers/lead-global-payment-solutions-specialist",
+      "/careers/senior-customer-experience-strategist",
+      "/careers/chief-blockchain-integration-engineer",
+      "/careers/senior-financial-technology-advisor",
+      "/careers/head-lead-global-payments-coordinator"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/69cbc7a6ac8803410148e6bf_Lead%20Global%20Payment%20Solutions%20Specialist.avif",
+    "pages": [
+      "/careers/lead-global-payment-solutions-specialist"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/69cbc7b267bfe1fdefd18206_Senior%20Customer%20Experience%20Strategist.avif",
+    "pages": [
+      "/careers/senior-customer-experience-strategist"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/69cbc7c0ff6d80c40e8d37c2_Chief%20Blockchain%20Integration%20Engineer.avif",
+    "pages": [
+      "/careers/chief-blockchain-integration-engineer"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/69cbc7cd3ab2be717ead1966_Senior%20Financial%20Technology%20Advisor.avif",
+    "pages": [
+      "/careers/senior-financial-technology-advisor"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/69cbc7dc5c0fe2e397437871_Head%20Lead%20Global%20Payments%20Coordinator.avif",
+    "pages": [
+      "/careers/head-lead-global-payments-coordinator"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6a86f8e647fb6cfb31b33ad9_Smart%20Collector%20Tips%20for%20global%20currency%20coins%20timeless%2C%20diverse%2C%20and%20valuable.avif",
+    "pages": [
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6adaf7bd61fdb22983d003ba_peggy.webp",
+    "pages": [
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6adaf7bd61fdb22983d003ba_peggy-p-500.webp",
+    "pages": [
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/696618787c173f9e0eb5dcbe_style-guide-img.avif",
+    "pages": [
+      "/blog/smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable",
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful",
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6a86f95507ddef4a002b5753_How%20to%20Enabling%20global%20spending%20with%20ease%20and%20growing%20confidence.avif",
+    "pages": [
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6adaf7c9271bcf14c0083759_nova-kingsley.webp",
+    "pages": [
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6adaf7c9271bcf14c0083759_nova-kingsley-p-500.webp",
+    "pages": [
+      "/blog/smart-spending-habits-for-a-more-balanced-and-secure-financial-life",
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6a86f93ee268d02d850fbac9_A%20Practical%20Guide%20to%20effortless%20expense%20reporting%20made%20simple%20and%20smart.avif",
+    "pages": [
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6adaf7c4271bcf14c0083611_chris.webp",
+    "pages": [
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6adaf7c4271bcf14c0083611_chris-p-500.webp",
+    "pages": [
+      "/blog/a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart",
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6a86f8f8cc468e3e4887f7b8_Your%20Essential%20Guide%20to%20secure%20and%20global%20transactions%20built%20on%20trust%20and%20speed.avif",
+    "pages": [
+      "/blog/your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6a86f906850e5e2cd5256bad_Essential%20Learning%20Guide%20for%20workplace%20conversations%20made%20open%2C%20honest%2C%20and%20meaningful.avif",
+    "pages": [
+      "/blog/essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6952703121e889b0b07134eb/6a86f91a569187b2f9189b05_Advanced%20Analytics%20Guide%20to%20transaction%20performance%20optimization%20and%20insights.avif",
+    "pages": [
+      "/blog/advanced-analytics-guide-to-transaction-performance"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/69492e28d0bb2cf25cc0684b_quote-icon.avif",
+    "pages": [
+      "shared-css"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694932d21d4d9be9fe1c5464_cta-bg.svg",
+    "pages": [
+      "shared-css"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694a2392f22210431001bf0f_Footer%20Bg%20-%20Dotted%20Flare%20Pattern.svg",
+    "pages": [
+      "shared-css"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694a31cef16f8e1591cb00e3_441d19218f33d60839888b4e9ce4dca7_Bg%20Flare%20Dotted.avif",
+    "pages": [
+      "shared-css"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/694a37515e7b3d46ac174820_06b2af5f933d32617503eb863dde1d7a_Bg%20L%20pattern.svg",
+    "pages": [
+      "shared-css"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd5076903_responsive-bg-text.svg",
+    "pages": [
+      "shared-css"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768dd_figma-bg.png",
+    "pages": [
+      "shared-css"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768d4_font-bg.png",
+    "pages": [
+      "shared-css"
+    ]
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6948e8ce41c947233cce0be0/6ae836daeb208fddd50768d7_icon-bg.png",
+    "pages": [
+      "shared-css"
+    ]
+  }
+]

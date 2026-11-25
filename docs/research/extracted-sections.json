@@ -1,0 +1,4069 @@
+{
+  "401.html": {
+    "title": "Protected Page - FlowSwipe - Webflow HTML website template",
+    "desc": "Enter your password to access this protected page and explore the available smart card payment content.",
+    "sectionCount": 1,
+    "sections": [
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "404.html": {
+    "title": "Not Found - FlowSwipe - Webflow HTML website template",
+    "desc": "The page you are looking for could not be found. Return to the homepage to explore our smart card payment solutions.",
+    "sectionCount": 1,
+    "sections": [
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "about-us.html": {
+    "title": "About Us - FlowSwipe - Webflow HTML website template",
+    "desc": "Learn about our smart card payment solutions designed to simplify transactions and deliver a secure, convenient payment experience.",
+    "sectionCount": 7,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "About Us",
+          "The Story Behind Our Company",
+          "Founded with a vision to simplify payments, our company delivers secure and seamless global solutions."
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Shaping tomorrow with purpose, with elegance",
+          "Creating a better future with purpose, style, and thoughtful, elegant solutions.",
+          "Join Our Team",
+          "8",
+          "5",
+          "2",
+          "0",
+          "3",
+          "9",
+          "M",
+          "Our business achieved remarkable growth.",
+          "4",
+          "6",
+          "2",
+          "5",
+          "8",
+          "7",
+          "3",
+          "2",
+          "0",
+          "+",
+          "Join a growing circle of engaged professionals."
+        ],
+        "imgCount": 2,
+        "imgs": [
+          "6ad0bc1219616008c9b0afc2_rocket-img.jpg",
+          "694e700c68be7d26f74bd09e_Dotted%20Pattern.avif"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Our global presence",
+          "Connecting markets worldwide, we provide seamless solutions across regions with trusted expertise.",
+          "US &amp; Canada",
+          "Central hub coordinating global services and connections.",
+          "Contact Office",
+          "Chad",
+          "Flagship branch overseeing regional services efficiently.",
+          "Contact Office",
+          "Mumbai",
+          "Primary northern center driving operations efficiently.",
+          "Contact Office",
+          "Australia",
+          "Coastal branch overseeing regional business activities.",
+          "Contact Office"
+        ],
+        "imgCount": 13,
+        "imgs": [
+          "6979c8b790001db6e9c34a9b_926a7a7f88f52cf9fc0ab5788c43f707_globe-img.webp",
+          "6979cac0d26ea464b8a43f08_location-icon.svg",
+          "6979cb9d25505ed9aa485f7a_1923605393ea970767e7509daf0da743_globe-img-05.avif",
+          "6949134c7114b734f4ebb08e_arrow.svg",
+          "6979cac0d26ea464b8a43f08_location-icon.svg",
+          "6979d1da80812231a46d1ae6_globe-img-03.avif",
+          "6949134c7114b734f4ebb08e_arrow.svg",
+          "6979cac0d26ea464b8a43f08_location-icon.svg",
+          "6979d1eccb9cc30a656cae68_globe-img-02.avif",
+          "6949134c7114b734f4ebb08e_arrow.svg",
+          "6979cac0d26ea464b8a43f08_location-icon.svg",
+          "6979d1fb56f6bf87d4351196_globe-img-01.avif",
+          "6949134c7114b734f4ebb08e_arrow.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Guided by principles, driven by core values",
+          "Leadership",
+          "Inspiration",
+          "Guiding teams with vision, expertise, and motivation to achieve outstanding results, inspire innovation, foster collaboration, and exceed business goals consistently.",
+          "Strategy",
+          "Innovation",
+          "Leveraging cutting-edge technologies to create smarter, faster, and more effective solutions that drive growth and deliver measurable results.",
+          "Culture",
+          "Collaboration",
+          "Fostering teamwork and partnerships to drive creative solutions and shared success, while building trust, innovation, and long-term growth opportunities.",
+          "Vision",
+          "Growth",
+          "Building a future-focused organization that empowers people and businesses to thrive globally with innovation, efficiency, and sustainability."
+        ],
+        "imgCount": 12,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "69525104486e9092fc6ae7bf_mission-img-01.avif",
+          "694e700c68be7d26f74bd09e_Dotted%20Pattern.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "6952520c6236dd5d9d96637b_mission-img-02.avif",
+          "694e700c68be7d26f74bd09e_Dotted%20Pattern.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "6952522972f00d33b1b59730_mission-img-03.avif",
+          "694e700c68be7d26f74bd09e_Dotted%20Pattern.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "6952524a1f07ca7587171555_mission-img-04.avif",
+          "694e700c68be7d26f74bd09e_Dotted%20Pattern.avif"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Frequently asked questions",
+          "Find answers to common questions and get quick, helpful guidance easily.",
+          "How to pre-book my card?",
+          "Pre-booking your card is simple and fast. Just fill out the online form, provide necessary details, and you’ll receive instant confirmation and notifications immediately.",
+          "How to manage transactions?",
+          "Track and manage all payments via the app or dashboard easily. You can view spending, receive alerts, and control your card settings anytime, anywhere securely.",
+          "Is my data secure?",
+          "Yes, all personal and financial data is fully encrypted with advanced security measures, guaranteeing complete privacy and safe transactions across all platforms.",
+          "Can I use globally?",
+          "Absolutely! The card works worldwide, accepted at major merchants, ATMs, and online platforms, making international payments smooth and hassle-free."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "blog.html": {
+    "title": "Blog - FlowSwipe - Webflow HTML website template",
+    "desc": "Explore articles, tips, and insights on smart card payments, digital banking, financial technology, and secure transactions.",
+    "sectionCount": 4,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "Blogs",
+          "Latest Modern Fintech Trends",
+          "Understand the modern fintech landscape and how trends are creating seamless, secure financial services."
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Latest Articles",
+          "All",
+          "Technology",
+          "Finance",
+          "Security",
+          "Technology",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "Smart Spending Habits for a More Balanced and Secure Financial Life",
+          "Read more",
+          "Security",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "A Practical Guide to effortless expense reporting made simple and smart",
+          "Read more",
+          "Finance",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "Smart Collector Tips for global currency coins timeless, diverse, and valuable",
+          "Read more",
+          "Technology"
+        ],
+        "imgCount": 24,
+        "imgs": [
+          "6a86f9514d56dcd012b360d4_How%20to%20Enabling%20global%20spending%20with%20ease%20and%20growing%20confidence%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f939e4ee84e35bf71859_A%20Practical%20Guide%20to%20effortless%20expense%20reporting%20made%20simple%20and%20smart%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f8e2159f820439e9f4b6_Smart%20Collector%20Tips%20for%20global%20currency%20coins%20timeless%2C%20diverse%2C%20and%20valuable%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f8f4dbdb6a1fb6d34428_Your%20Essential%20Guide%20to%20secure%20and%20global%20transactions%20built%20on%20trust%20and%20speed%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f8b89aa3933e4d123f61_essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful-thumbnail.jpg",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f915f576691aca829559_Advanced%20Analytics%20Guide%20to%20transaction%20performance%20optimization%20and%20insights%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f9514d56dcd012b360d4_How%20to%20Enabling%20global%20spending%20with%20ease%20and%20growing%20confidence%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f8f4dbdb6a1fb6d34428_Your%20Essential%20Guide%20to%20secure%20and%20global%20transactions%20built%20on%20trust%20and%20speed%20thumbnail.avif"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "blog__a-practical-guide-to-effortless-expense-reporting-made-simple-and-smart.html": {
+    "title": "A Practical Guide to effortless expense reporting made simple and smart - FlowSwipe - Webflow HTML website template",
+    "desc": "Streamline expense reporting with intuitive processes that save time and reduce errors. Simplify tracking, automate submissions, and gain better visibility into spending while ensuring accuracy, compliance, and smarter financial management.",
+    "sectionCount": 5,
+    "sections": [
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Security",
+          "A Practical Guide to effortless expense reporting made simple and smart",
+          "Written by",
+          "Chris Pratt",
+          "Published",
+          "14 Jan 26"
+        ],
+        "imgCount": 2,
+        "imgs": [
+          "6adaf7c4271bcf14c0083611_chris.webp",
+          "6a86f93ee268d02d850fbac9_A%20Practical%20Guide%20to%20effortless%20expense%20reporting%20made%20simple%20and%20smart.avif"
+        ]
+      },
+      {
+        "className": "summary-section",
+        "textSample": [
+          "Introduction",
+          "Starting fresh with a smarter approach to finance helps you stay organized, calm, and in full control. This platform guides you through spending, payments, and real-time updates with simple, secure tools built for everyday use. Every feature supports smoother decisions, clearer insights, and easier management no matter where life takes you each day, empowering your daily financial choices with confidence.",
+          "“Quickly jot down your ideas, reminders, and important details in one place. Keep everything organized, accessible, and easy to review anytime, anywhere.”",
+          "Benefits of a universal payment card",
+          "The value of a global payment card lies not just in its ability to transact but in the comprehensive ecosystem of convenience and protection it offers.",
+          "Seamless Global Access",
+          "– These cards are accepted at millions of merchants worldwide, from high-end retailers to local street markets.",
+          "Multi-Currency Flexibility",
+          "– Instead of juggling different wallets or converting currencies at unfavourable exchange counters.",
+          "Enhanced Digital Experience",
+          "– Integrated with mobile wallets like Google Pay, Apple Pay, and Samsung Pay, global cards ensure smooth digital payments and effortless transfers.",
+          "Three glowing orange panels with white pixel art icons above a stylized, curved globe with highlighted continents and map markers.",
+          "Why it matters",
+          "The relevance of universal payment cards becomes clearer when we look at how they simplify everyday experiences across the globe:",
+          "Confidence Abroad",
+          "– No longer worry about carrying stacks of cash or hunting down currency exchange centres; a single card ensures smooth, reliable payments anywhere.",
+          "Frictionless Shopping",
+          "– Experience seamless, fast, hassle-free shopping with smooth checkout, smart recommendations, and secure payments for an effortless buying journey.",
+          "Optimized Costs",
+          "– Traditional methods often involve hidden charges, high exchange rates, or ATM withdrawal fees.",
+          "Conclusion",
+          "In a world where mobility and connectivity define modern living, universal payment cards have emerged as more than just financial tools—they are enablers of global freedom. By combining seamless international acceptance, enhanced security, multi-currency support, and exclusive lifestyle benefits, these cards simplify the way people and businesses interact with money across borders. Ultimately, these cards symbolize the future of finance: borderless, digital-first, and designed for a truly global society."
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "696618787c173f9e0eb5dcbe_style-guide-img.avif"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Similar Blogs",
+          "Explore All Blogs",
+          "Technology",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "Smart Spending Habits for a More Balanced and Secure Financial Life",
+          "Read more",
+          "Finance",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "Smart Collector Tips for global currency coins timeless, diverse, and valuable",
+          "Read more",
+          "Technology",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "Your Essential Guide to secure and global transactions built on trust and speed",
+          "Read more"
+        ],
+        "imgCount": 6,
+        "imgs": [
+          "6a86f9514d56dcd012b360d4_How%20to%20Enabling%20global%20spending%20with%20ease%20and%20growing%20confidence%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f8e2159f820439e9f4b6_Smart%20Collector%20Tips%20for%20global%20currency%20coins%20timeless%2C%20diverse%2C%20and%20valuable%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f8f4dbdb6a1fb6d34428_Your%20Essential%20Guide%20to%20secure%20and%20global%20transactions%20built%20on%20trust%20and%20speed%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "blog__advanced-analytics-guide-to-transaction-performance.html": {
+    "title": "Advanced Analytics Guide to transaction performance optimization and insights - FlowSwipe - Webflow HTML website template",
+    "desc": "Leverage advanced analytics to optimize transaction performance and uncover actionable insights. Analyze trends, improve efficiency, and make data-driven decisions that enhance financial outcomes and support scalable, informed business growth strategies.",
+    "sectionCount": 5,
+    "sections": [
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Finance",
+          "Advanced Analytics Guide to transaction performance optimization and insights",
+          "Written by",
+          "Peggy Carter",
+          "Published",
+          "13 Jan 26"
+        ],
+        "imgCount": 2,
+        "imgs": [
+          "6adaf7bd61fdb22983d003ba_peggy.webp",
+          "6a86f91a569187b2f9189b05_Advanced%20Analytics%20Guide%20to%20transaction%20performance%20optimization%20and%20insights.avif"
+        ]
+      },
+      {
+        "className": "summary-section",
+        "textSample": [
+          "Introduction",
+          "Starting fresh with a smarter approach to finance helps you stay organized, calm, and in full control. This platform guides you through spending, payments, and real-time updates with simple, secure tools built for everyday use. Every feature supports smoother decisions, clearer insights, and easier management no matter where life takes you each day, empowering your daily financial choices with confidence.",
+          "“Quickly jot down your ideas, reminders, and important details in one place. Keep everything organized, accessible, and easy to review anytime, anywhere.”",
+          "Benefits of a universal payment card",
+          "The value of a global payment card lies not just in its ability to transact but in the comprehensive ecosystem of convenience and protection it offers.",
+          "Seamless Global Access",
+          "– These cards are accepted at millions of merchants worldwide, from high-end retailers to local street markets.",
+          "Multi-Currency Flexibility",
+          "– Instead of juggling different wallets or converting currencies at unfavourable exchange counters.",
+          "Enhanced Digital Experience",
+          "– Integrated with mobile wallets like Google Pay, Apple Pay, and Samsung Pay, global cards ensure smooth digital payments and effortless transfers.",
+          "Three glowing orange panels with white pixel art icons above a stylized, curved globe with highlighted continents and map markers.",
+          "Why it matters",
+          "The relevance of universal payment cards becomes clearer when we look at how they simplify everyday experiences across the globe:",
+          "Confidence Abroad",
+          "– No longer worry about carrying stacks of cash or hunting down currency exchange centres; a single card ensures smooth, reliable payments anywhere.",
+          "Frictionless Shopping",
+          "– Experience seamless, fast, hassle-free shopping with smooth checkout, smart recommendations, and secure payments for an effortless buying journey.",
+          "Optimized Costs",
+          "– Traditional methods often involve hidden charges, high exchange rates, or ATM withdrawal fees.",
+          "Conclusion",
+          "In a world where mobility and connectivity define modern living, universal payment cards have emerged as more than just financial tools—they are enablers of global freedom. By combining seamless international acceptance, enhanced security, multi-currency support, and exclusive lifestyle benefits, these cards simplify the way people and businesses interact with money across borders. Ultimately, these cards symbolize the future of finance: borderless, digital-first, and designed for a truly global society."
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "696618787c173f9e0eb5dcbe_style-guide-img.avif"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Similar Blogs",
+          "Explore All Blogs",
+          "Technology",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "Smart Spending Habits for a More Balanced and Secure Financial Life",
+          "Read more",
+          "Security",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "A Practical Guide to effortless expense reporting made simple and smart",
+          "Read more",
+          "Finance",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "Smart Collector Tips for global currency coins timeless, diverse, and valuable",
+          "Read more"
+        ],
+        "imgCount": 6,
+        "imgs": [
+          "6a86f9514d56dcd012b360d4_How%20to%20Enabling%20global%20spending%20with%20ease%20and%20growing%20confidence%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f939e4ee84e35bf71859_A%20Practical%20Guide%20to%20effortless%20expense%20reporting%20made%20simple%20and%20smart%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f8e2159f820439e9f4b6_Smart%20Collector%20Tips%20for%20global%20currency%20coins%20timeless%2C%20diverse%2C%20and%20valuable%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "blog__essential-learning-guide-for-workplace-conversations-made-open-honest-and-meaningful.html": {
+    "title": "Essential Learning Guide for workplace conversations made open, honest, and meaningful - FlowSwipe - Webflow HTML website template",
+    "desc": "Foster better workplace conversations through open and honest communication. Build trust, encourage collaboration, and create meaningful dialogue that strengthens relationships, improves team dynamics, and drives productive outcomes across your organization.",
+    "sectionCount": 5,
+    "sections": [
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Security",
+          "Essential Learning Guide for workplace conversations made open, honest, and meaningful",
+          "Written by",
+          "Chris Pratt",
+          "Published",
+          "14 Jan 26"
+        ],
+        "imgCount": 2,
+        "imgs": [
+          "6adaf7c4271bcf14c0083611_chris.webp",
+          "6a86f906850e5e2cd5256bad_Essential%20Learning%20Guide%20for%20workplace%20conversations%20made%20open%2C%20honest%2C%20and%20meaningful.avif"
+        ]
+      },
+      {
+        "className": "summary-section",
+        "textSample": [
+          "Introduction",
+          "Starting fresh with a smarter approach to finance helps you stay organized, calm, and in full control. This platform guides you through spending, payments, and real-time updates with simple, secure tools built for everyday use. Every feature supports smoother decisions, clearer insights, and easier management no matter where life takes you each day, empowering your daily financial choices with confidence.",
+          "“Quickly jot down your ideas, reminders, and important details in one place. Keep everything organized, accessible, and easy to review anytime, anywhere.”",
+          "Benefits of a universal payment card",
+          "The value of a global payment card lies not just in its ability to transact but in the comprehensive ecosystem of convenience and protection it offers.",
+          "Seamless Global Access",
+          "– These cards are accepted at millions of merchants worldwide, from high-end retailers to local street markets.",
+          "Multi-Currency Flexibility",
+          "– Instead of juggling different wallets or converting currencies at unfavourable exchange counters.",
+          "Enhanced Digital Experience",
+          "– Integrated with mobile wallets like Google Pay, Apple Pay, and Samsung Pay, global cards ensure smooth digital payments and effortless transfers.",
+          "Three glowing orange panels with white pixel art icons above a stylized, curved globe with highlighted continents and map markers.",
+          "Why it matters",
+          "The relevance of universal payment cards becomes clearer when we look at how they simplify everyday experiences across the globe:",
+          "Confidence Abroad",
+          "– No longer worry about carrying stacks of cash or hunting down currency exchange centres; a single card ensures smooth, reliable payments anywhere.",
+          "Frictionless Shopping",
+          "– Experience seamless, fast, hassle-free shopping with smooth checkout, smart recommendations, and secure payments for an effortless buying journey.",
+          "Optimized Costs",
+          "– Traditional methods often involve hidden charges, high exchange rates, or ATM withdrawal fees.",
+          "Conclusion",
+          "In a world where mobility and connectivity define modern living, universal payment cards have emerged as more than just financial tools—they are enablers of global freedom. By combining seamless international acceptance, enhanced security, multi-currency support, and exclusive lifestyle benefits, these cards simplify the way people and businesses interact with money across borders. Ultimately, these cards symbolize the future of finance: borderless, digital-first, and designed for a truly global society."
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "696618787c173f9e0eb5dcbe_style-guide-img.avif"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Similar Blogs",
+          "Explore All Blogs",
+          "Technology",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "Smart Spending Habits for a More Balanced and Secure Financial Life",
+          "Read more",
+          "Security",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "A Practical Guide to effortless expense reporting made simple and smart",
+          "Read more",
+          "Finance",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "Smart Collector Tips for global currency coins timeless, diverse, and valuable",
+          "Read more"
+        ],
+        "imgCount": 6,
+        "imgs": [
+          "6a86f9514d56dcd012b360d4_How%20to%20Enabling%20global%20spending%20with%20ease%20and%20growing%20confidence%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f939e4ee84e35bf71859_A%20Practical%20Guide%20to%20effortless%20expense%20reporting%20made%20simple%20and%20smart%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f8e2159f820439e9f4b6_Smart%20Collector%20Tips%20for%20global%20currency%20coins%20timeless%2C%20diverse%2C%20and%20valuable%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "blog__smart-collector-tips-for-global-currency-coins-timeless-diverse-and-valuable.html": {
+    "title": "Smart Collector Tips for global currency coins timeless, diverse, and valuable - FlowSwipe - Webflow HTML website template",
+    "desc": "Discover expert tips for collecting global currency coins with lasting value. Explore diverse collections, understand rarity, and preserve assets effectively while building a timeless portfolio that reflects history, culture, and investment potential.",
+    "sectionCount": 5,
+    "sections": [
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Finance",
+          "Smart Collector Tips for global currency coins timeless, diverse, and valuable",
+          "Written by",
+          "Peggy Carter",
+          "Published",
+          "14 Jan 26"
+        ],
+        "imgCount": 2,
+        "imgs": [
+          "6adaf7bd61fdb22983d003ba_peggy.webp",
+          "6a86f8e647fb6cfb31b33ad9_Smart%20Collector%20Tips%20for%20global%20currency%20coins%20timeless%2C%20diverse%2C%20and%20valuable.avif"
+        ]
+      },
+      {
+        "className": "summary-section",
+        "textSample": [
+          "Introduction",
+          "Starting fresh with a smarter approach to finance helps you stay organized, calm, and in full control. This platform guides you through spending, payments, and real-time updates with simple, secure tools built for everyday use. Every feature supports smoother decisions, clearer insights, and easier management no matter where life takes you each day, empowering your daily financial choices with confidence.",
+          "“Quickly jot down your ideas, reminders, and important details in one place. Keep everything organized, accessible, and easy to review anytime, anywhere.”",
+          "Benefits of a universal payment card",
+          "The value of a global payment card lies not just in its ability to transact but in the comprehensive ecosystem of convenience and protection it offers.",
+          "Seamless Global Access",
+          "– These cards are accepted at millions of merchants worldwide, from high-end retailers to local street markets.",
+          "Multi-Currency Flexibility",
+          "– Instead of juggling different wallets or converting currencies at unfavourable exchange counters.",
+          "Enhanced Digital Experience",
+          "– Integrated with mobile wallets like Google Pay, Apple Pay, and Samsung Pay, global cards ensure smooth digital payments and effortless transfers.",
+          "Three glowing orange panels with white pixel art icons above a stylized, curved globe with highlighted continents and map markers.",
+          "Why it matters",
+          "The relevance of universal payment cards becomes clearer when we look at how they simplify everyday experiences across the globe:",
+          "Confidence Abroad",
+          "– No longer worry about carrying stacks of cash or hunting down currency exchange centres; a single card ensures smooth, reliable payments anywhere.",
+          "Frictionless Shopping",
+          "– Experience seamless, fast, hassle-free shopping with smooth checkout, smart recommendations, and secure payments for an effortless buying journey.",
+          "Optimized Costs",
+          "– Traditional methods often involve hidden charges, high exchange rates, or ATM withdrawal fees.",
+          "Conclusion",
+          "In a world where mobility and connectivity define modern living, universal payment cards have emerged as more than just financial tools—they are enablers of global freedom. By combining seamless international acceptance, enhanced security, multi-currency support, and exclusive lifestyle benefits, these cards simplify the way people and businesses interact with money across borders. Ultimately, these cards symbolize the future of finance: borderless, digital-first, and designed for a truly global society."
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "696618787c173f9e0eb5dcbe_style-guide-img.avif"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Similar Blogs",
+          "Explore All Blogs",
+          "Technology",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "Smart Spending Habits for a More Balanced and Secure Financial Life",
+          "Read more",
+          "Security",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "A Practical Guide to effortless expense reporting made simple and smart",
+          "Read more",
+          "Technology",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "Your Essential Guide to secure and global transactions built on trust and speed",
+          "Read more"
+        ],
+        "imgCount": 6,
+        "imgs": [
+          "6a86f9514d56dcd012b360d4_How%20to%20Enabling%20global%20spending%20with%20ease%20and%20growing%20confidence%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f939e4ee84e35bf71859_A%20Practical%20Guide%20to%20effortless%20expense%20reporting%20made%20simple%20and%20smart%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f8f4dbdb6a1fb6d34428_Your%20Essential%20Guide%20to%20secure%20and%20global%20transactions%20built%20on%20trust%20and%20speed%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "blog__smart-spending-habits-for-a-more-balanced-and-secure-financial-life.html": {
+    "title": "Smart Spending Habits for a More Balanced and Secure Financial Life - FlowSwipe - Webflow HTML website template",
+    "desc": "Enable seamless global spending with smart financial tools designed for flexibility and control. Simplify cross-border transactions, reduce friction, and build confidence while managing expenses efficiently across multiple currencies worldwide.",
+    "sectionCount": 5,
+    "sections": [
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Technology",
+          "Smart Spending Habits for a More Balanced and Secure Financial Life",
+          "Written by",
+          "Nova Kingsley",
+          "Published",
+          "14 Jan 26"
+        ],
+        "imgCount": 2,
+        "imgs": [
+          "6adaf7c9271bcf14c0083759_nova-kingsley.webp",
+          "6a86f95507ddef4a002b5753_How%20to%20Enabling%20global%20spending%20with%20ease%20and%20growing%20confidence.avif"
+        ]
+      },
+      {
+        "className": "summary-section",
+        "textSample": [
+          "Introduction",
+          "Starting fresh with a smarter approach to finance helps you stay organized, calm, and in full control. This platform guides you through spending, payments, and real-time updates with simple, secure tools built for everyday use. Every feature supports smoother decisions, clearer insights, and easier management no matter where life takes you each day, empowering your daily financial choices with confidence.",
+          "“Quickly jot down your ideas, reminders, and important details in one place. Keep everything organized, accessible, and easy to review anytime, anywhere.”",
+          "Benefits of a universal payment card",
+          "The value of a global payment card lies not just in its ability to transact but in the comprehensive ecosystem of convenience and protection it offers.",
+          "Seamless Global Access",
+          "– These cards are accepted at millions of merchants worldwide, from high-end retailers to local street markets.",
+          "Multi-Currency Flexibility",
+          "– Instead of juggling different wallets or converting currencies at unfavourable exchange counters.",
+          "Enhanced Digital Experience",
+          "– Integrated with mobile wallets like Google Pay, Apple Pay, and Samsung Pay, global cards ensure smooth digital payments and effortless transfers.",
+          "Three glowing orange panels with white pixel art icons above a stylized, curved globe with highlighted continents and map markers.",
+          "Why it matters",
+          "The relevance of universal payment cards becomes clearer when we look at how they simplify everyday experiences across the globe:",
+          "Confidence Abroad",
+          "– No longer worry about carrying stacks of cash or hunting down currency exchange centres; a single card ensures smooth, reliable payments anywhere.",
+          "Frictionless Shopping",
+          "– Experience seamless, fast, hassle-free shopping with smooth checkout, smart recommendations, and secure payments for an effortless buying journey.",
+          "Optimized Costs",
+          "– Traditional methods often involve hidden charges, high exchange rates, or ATM withdrawal fees.",
+          "Conclusion",
+          "In a world where mobility and connectivity define modern living, universal payment cards have emerged as more than just financial tools—they are enablers of global freedom. By combining seamless international acceptance, enhanced security, multi-currency support, and exclusive lifestyle benefits, these cards simplify the way people and businesses interact with money across borders. Ultimately, these cards symbolize the future of finance: borderless, digital-first, and designed for a truly global society."
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "696618787c173f9e0eb5dcbe_style-guide-img.avif"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Similar Blogs",
+          "Explore All Blogs",
+          "Security",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "A Practical Guide to effortless expense reporting made simple and smart",
+          "Read more",
+          "Finance",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "Smart Collector Tips for global currency coins timeless, diverse, and valuable",
+          "Read more",
+          "Technology",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "Your Essential Guide to secure and global transactions built on trust and speed",
+          "Read more"
+        ],
+        "imgCount": 6,
+        "imgs": [
+          "6a86f939e4ee84e35bf71859_A%20Practical%20Guide%20to%20effortless%20expense%20reporting%20made%20simple%20and%20smart%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f8e2159f820439e9f4b6_Smart%20Collector%20Tips%20for%20global%20currency%20coins%20timeless%2C%20diverse%2C%20and%20valuable%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f8f4dbdb6a1fb6d34428_Your%20Essential%20Guide%20to%20secure%20and%20global%20transactions%20built%20on%20trust%20and%20speed%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "blog__your-essential-guide-to-secured-global-transactions-built-on-trust-and-speed.html": {
+    "title": "Your Essential Guide to secure and global transactions built on trust and speed - FlowSwipe - Webflow HTML website template",
+    "desc": "Navigate global transactions with confidence using secure and reliable systems. Ensure fast processing, protect sensitive data, and build trust while managing payments efficiently across borders with enhanced transparency and control.",
+    "sectionCount": 5,
+    "sections": [
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Technology",
+          "Your Essential Guide to secure and global transactions built on trust and speed",
+          "Written by",
+          "Nova Kingsley",
+          "Published",
+          "14 Jan 26"
+        ],
+        "imgCount": 2,
+        "imgs": [
+          "6adaf7c9271bcf14c0083759_nova-kingsley.webp",
+          "6a86f8f8cc468e3e4887f7b8_Your%20Essential%20Guide%20to%20secure%20and%20global%20transactions%20built%20on%20trust%20and%20speed.avif"
+        ]
+      },
+      {
+        "className": "summary-section",
+        "textSample": [
+          "Introduction",
+          "Starting fresh with a smarter approach to finance helps you stay organized, calm, and in full control. This platform guides you through spending, payments, and real-time updates with simple, secure tools built for everyday use. Every feature supports smoother decisions, clearer insights, and easier management no matter where life takes you each day, empowering your daily financial choices with confidence.",
+          "“Quickly jot down your ideas, reminders, and important details in one place. Keep everything organized, accessible, and easy to review anytime, anywhere.”",
+          "Benefits of a universal payment card",
+          "The value of a global payment card lies not just in its ability to transact but in the comprehensive ecosystem of convenience and protection it offers.",
+          "Seamless Global Access",
+          "– These cards are accepted at millions of merchants worldwide, from high-end retailers to local street markets.",
+          "Multi-Currency Flexibility",
+          "– Instead of juggling different wallets or converting currencies at unfavourable exchange counters.",
+          "Enhanced Digital Experience",
+          "– Integrated with mobile wallets like Google Pay, Apple Pay, and Samsung Pay, global cards ensure smooth digital payments and effortless transfers.",
+          "Three glowing orange panels with white pixel art icons above a stylized, curved globe with highlighted continents and map markers.",
+          "Why it matters",
+          "The relevance of universal payment cards becomes clearer when we look at how they simplify everyday experiences across the globe:",
+          "Confidence Abroad",
+          "– No longer worry about carrying stacks of cash or hunting down currency exchange centres; a single card ensures smooth, reliable payments anywhere.",
+          "Frictionless Shopping",
+          "– Experience seamless, fast, hassle-free shopping with smooth checkout, smart recommendations, and secure payments for an effortless buying journey.",
+          "Optimized Costs",
+          "– Traditional methods often involve hidden charges, high exchange rates, or ATM withdrawal fees.",
+          "Conclusion",
+          "In a world where mobility and connectivity define modern living, universal payment cards have emerged as more than just financial tools—they are enablers of global freedom. By combining seamless international acceptance, enhanced security, multi-currency support, and exclusive lifestyle benefits, these cards simplify the way people and businesses interact with money across borders. Ultimately, these cards symbolize the future of finance: borderless, digital-first, and designed for a truly global society."
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "696618787c173f9e0eb5dcbe_style-guide-img.avif"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Similar Blogs",
+          "Explore All Blogs",
+          "Technology",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "Smart Spending Habits for a More Balanced and Secure Financial Life",
+          "Read more",
+          "Security",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "A Practical Guide to effortless expense reporting made simple and smart",
+          "Read more",
+          "Finance",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "Smart Collector Tips for global currency coins timeless, diverse, and valuable",
+          "Read more"
+        ],
+        "imgCount": 6,
+        "imgs": [
+          "6a86f9514d56dcd012b360d4_How%20to%20Enabling%20global%20spending%20with%20ease%20and%20growing%20confidence%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f939e4ee84e35bf71859_A%20Practical%20Guide%20to%20effortless%20expense%20reporting%20made%20simple%20and%20smart%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f8e2159f820439e9f4b6_Smart%20Collector%20Tips%20for%20global%20currency%20coins%20timeless%2C%20diverse%2C%20and%20valuable%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "careers.html": {
+    "title": "Careers - FlowSwipe - Webflow HTML website template",
+    "desc": "Explore career opportunities and join a team building smarter payment experiences through innovative card solutions and financial technology.",
+    "sectionCount": 7,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "Careers",
+          "Join Our Fastest Growing Team",
+          "Become part of a dynamic, innovative team where your skills are valued, growth is encouraged, and impact matters."
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Culture",
+          "Listen to what our team says on culture",
+          "Supportive teammates, clear vision, and real opportunities make this a place I’m proud to work every single day.",
+          "View Jobs",
+          "Our Team Members"
+        ],
+        "imgCount": 3,
+        "imgs": [
+          "695260cca037c5271b933627_32fc8a019158b0be6a4b1395a985a80f_mic-img.avif",
+          "6949110fcb96dd8ac5a4fdb3_play-icon.svg",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Thrive with our culture, perks, and cool lifestyle.",
+          "Be part of a supportive environment that values collaboration, offers meaningful perks, and promotes a balanced lifestyle for lasting growth and success.",
+          "90% Remote Opportunity",
+          "Enjoy remote flexibility with the freedom to work from anywhere, collaborate seamlessly with your team, and maintain a healthy work-life balance.",
+          "Career Growth",
+          "Unlock continuous learning, mentorship, and clear advancement paths designed to help you grow faster and achieve your professional goals.",
+          "Flexible hours",
+          "Work on your schedule with flexible daily working hours.",
+          "Medical Benefits",
+          "Comprehensive health coverage for you and your family."
+        ],
+        "imgCount": 2,
+        "imgs": [
+          "69526673cd57524bbcda9f61_home.avif",
+          "69526847f5351c4fa6beefe5_lightning.avif"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "From the team’s desk",
+          "Banking Analyst - Sydney",
+          "Loving the collaborative culture here, every single day brings growth and exciting opportunities.",
+          "Rylan Cortez",
+          "Banking Analyst - Sydney",
+          "Financial Advisor - Mexico",
+          "Payment Specialist - Toronto",
+          "Teamwork and innovation make this company an inspiring place to contribute and learn.",
+          "Johanna Wilson",
+          "Payment Specialist - Toronto",
+          "General Manager - Texas",
+          "Operations Lead - New York",
+          "The culture encourages creativity and accountability while offering endless growth potential.",
+          "Jaxon Mirel",
+          "Operations Lead - New York",
+          "Stock Trader - Bermingham",
+          "Blockchain Engineer - Edinburgh",
+          "Collaborative culture and meaningful projects create an exciting and rewarding workplace.",
+          "Kaia Emberly",
+          "Blockchain Engineer - Edinburgh",
+          "Chartered Accountant - Paris"
+        ],
+        "imgCount": 28,
+        "imgs": [
+          "698c583fc25e7b6bda9eb394_testimonial-img-02.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "694e321b443a7905a3652aff_quote.svg",
+          "694e2fe098bd68220e415922_testimonial-img-01.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "6965dcf9545eb9d499e750ce_career-testimonial-img.avif",
+          "6a5ef907c79728b9ccb860b3_play-icon.svg",
+          "69c376ecf9d0633bda1cfea7_testimonial-img-04.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "694e321b443a7905a3652aff_quote.svg",
+          "698c584a70164f409e0204f4_testimonial-img-03.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "69c378b80fc02305c24d070f_career-testimonial-img-02.avif",
+          "6a5ef907c79728b9ccb860b3_play-icon.svg",
+          "694e2fe098bd68220e415922_testimonial-img-01.avif"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Open positions",
+          "All",
+          "Technology",
+          "Finance",
+          "Security",
+          "Part Time",
+          "Principal Lead Fintech Product Manager",
+          "Leading fintech product initiatives, driving innovation, and ensuring seamless, secure, and efficient financial solutions.",
+          "4+ Years",
+          "Chicago",
+          "Apply",
+          "Full Time",
+          "Lead Global Payment Solutions Specialist",
+          "Driving innovation in payment systems, ensuring smooth, secure, and efficient transactions across platforms worldwide.",
+          "9+ Years",
+          "Melbourne",
+          "Apply",
+          "Full Time",
+          "Senior Customer Experience Strategist",
+          "Enhancing every customer interaction by designing seamless, engaging experiences that build trust and satisfaction.",
+          "9+ Years",
+          "San Francisco",
+          "Apply",
+          "Full Time",
+          "Chief Blockchain Integration Engineer",
+          "Driving the development of blockchain systems that ensure secure, seamless, and scalable digital transactions.",
+          "5+ Years",
+          "Toronto",
+          "Apply",
+          "Part Time"
+        ],
+        "imgCount": 36,
+        "imgs": [
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "careers__chief-blockchain-integration-engineer.html": {
+    "title": "Chief Blockchain Integration Engineer - FlowSwipe - Webflow HTML website template",
+    "desc": "Driving the development of blockchain systems that ensure secure, seamless, and scalable digital transactions.",
+    "sectionCount": 5,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "Security",
+          "Chief Blockchain Integration Engineer",
+          "Driving the development of blockchain systems that ensure secure, seamless, and scalable digital transactions.",
+          "Apply"
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Posted On",
+          "January 14, 2026",
+          "Role",
+          "Secretary",
+          "Type",
+          "Full Time",
+          "Location",
+          "Toronto",
+          "Job Introduction",
+          "Join a dynamic, innovative team at the forefront of digital banking and fintech solutions. This role empowers you to drive impactful projects, enhance financial products, and shape the future of payments. Collaborate with talented professionals, leverage cutting-edge technologies, and deliver seamless, secure, and efficient experiences for clients worldwide.",
+          "Your Mission",
+          "Deliver seamless digital banking experiences that empower customers with fast and secure transactions worldwide.",
+          "Drive innovation by developing cutting-edge fintech solutions that simplify payments and financial management.",
+          "Enhance user satisfaction by providing intuitive, reliable, and accessible banking tools for all clients.",
+          "Promote financial inclusion through smart products that reach diverse users globally with ease and security.",
+          "Collaborate with cross-functional teams to implement efficient, scalable, and impactful banking solutions.",
+          "Maintain the highest standards of data security, compliance, and ethical practices across all financial operations.",
+          "Superpowers You Will Need",
+          "Analytical thinking to solve complex problems and optimize fintech products for efficiency and growth.",
+          "Strong communication skills to collaborate effectively across global teams and stakeholders.",
+          "Innovative mindset to create cutting-edge solutions in digital banking and payment systems.",
+          "Adaptability and resilience to thrive in a fast-paced, constantly evolving fintech environment.",
+          "Attention to detail to ensure accuracy, security, and compliance in all financial operations.",
+          "Customer-centric approach to design products and experiences that truly empower users.",
+          "Our Culture and Your Benefits",
+          "Join a collaborative and innovative workplace where your ideas truly matter and growth is actively encouraged every single day. Enjoy a culture that values creativity, teamwork, and professional development while providing flexible work options, comprehensive health and wellness programs, and opportunities to make a meaningful impact. Experience a supportive environment that balances career success with personal well-being.",
+          "Key Highlights",
+          "Top Notch Culture",
+          "Highly rated",
+          "Competitive Pay"
+        ],
+        "imgCount": 3,
+        "imgs": [
+          "6965e2397680c8bf0f8fa812_highilight-icon-1.svg",
+          "6965e2331dc9fed775a977a6_highilight-icon-2.svg",
+          "6965e2357398f57d9e51ceac_highilight-icon-3.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Similar Positions",
+          "Explore All Positions",
+          "Part Time",
+          "Principal Lead Fintech Product Manager",
+          "Leading fintech product initiatives, driving innovation, and ensuring seamless, secure, and efficient financial solutions.",
+          "4+ Years",
+          "Chicago",
+          "Apply",
+          "Full Time",
+          "Lead Global Payment Solutions Specialist",
+          "Driving innovation in payment systems, ensuring smooth, secure, and efficient transactions across platforms worldwide.",
+          "9+ Years",
+          "Melbourne",
+          "Apply",
+          "Full Time",
+          "Senior Customer Experience Strategist",
+          "Enhancing every customer interaction by designing seamless, engaging experiences that build trust and satisfaction.",
+          "9+ Years",
+          "San Francisco",
+          "Apply"
+        ],
+        "imgCount": 9,
+        "imgs": [
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "careers__head-lead-global-payments-coordinator.html": {
+    "title": "Head Lead Global Payments Coordinator - FlowSwipe - Webflow HTML website template",
+    "desc": "Overseeing worldwide payment operations to ensure fast, secure, and seamless financial transactions across platforms.",
+    "sectionCount": 5,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "Finance",
+          "Head Lead Global Payments Coordinator",
+          "Overseeing worldwide payment operations to ensure fast, secure, and seamless financial transactions across platforms.",
+          "Apply"
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Posted On",
+          "January 9, 2026",
+          "Role",
+          "Accountant",
+          "Type",
+          "Contract",
+          "Location",
+          "London",
+          "Job Introduction",
+          "Join a dynamic, innovative team at the forefront of digital banking and fintech solutions. This role empowers you to drive impactful projects, enhance financial products, and shape the future of payments. Collaborate with talented professionals, leverage cutting-edge technologies, and deliver seamless, secure, and efficient experiences for clients worldwide.",
+          "Your Mission",
+          "Deliver seamless digital banking experiences that empower customers with fast and secure transactions worldwide.",
+          "Drive innovation by developing cutting-edge fintech solutions that simplify payments and financial management.",
+          "Enhance user satisfaction by providing intuitive, reliable, and accessible banking tools for all clients.",
+          "Promote financial inclusion through smart products that reach diverse users globally with ease and security.",
+          "Collaborate with cross-functional teams to implement efficient, scalable, and impactful banking solutions.",
+          "Maintain the highest standards of data security, compliance, and ethical practices across all financial operations.",
+          "Superpowers You Will Need",
+          "Analytical thinking to solve complex problems and optimize fintech products for efficiency and growth.",
+          "Strong communication skills to collaborate effectively across global teams and stakeholders.",
+          "Innovative mindset to create cutting-edge solutions in digital banking and payment systems.",
+          "Adaptability and resilience to thrive in a fast-paced, constantly evolving fintech environment.",
+          "Attention to detail to ensure accuracy, security, and compliance in all financial operations.",
+          "Customer-centric approach to design products and experiences that truly empower users.",
+          "Our Culture and Your Benefits",
+          "Join a collaborative and innovative workplace where your ideas truly matter and growth is actively encouraged every single day. Enjoy a culture that values creativity, teamwork, and professional development while providing flexible work options, comprehensive health and wellness programs, and opportunities to make a meaningful impact. Experience a supportive environment that balances career success with personal well-being.",
+          "Key Highlights",
+          "Top Notch Culture",
+          "Highly rated",
+          "Competitive Pay"
+        ],
+        "imgCount": 3,
+        "imgs": [
+          "6965e2397680c8bf0f8fa812_highilight-icon-1.svg",
+          "6965e2331dc9fed775a977a6_highilight-icon-2.svg",
+          "6965e2357398f57d9e51ceac_highilight-icon-3.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Similar Positions",
+          "Explore All Positions",
+          "Part Time",
+          "Principal Lead Fintech Product Manager",
+          "Leading fintech product initiatives, driving innovation, and ensuring seamless, secure, and efficient financial solutions.",
+          "4+ Years",
+          "Chicago",
+          "Apply",
+          "Full Time",
+          "Lead Global Payment Solutions Specialist",
+          "Driving innovation in payment systems, ensuring smooth, secure, and efficient transactions across platforms worldwide.",
+          "9+ Years",
+          "Melbourne",
+          "Apply",
+          "Full Time",
+          "Senior Customer Experience Strategist",
+          "Enhancing every customer interaction by designing seamless, engaging experiences that build trust and satisfaction.",
+          "9+ Years",
+          "San Francisco",
+          "Apply"
+        ],
+        "imgCount": 9,
+        "imgs": [
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "careers__lead-global-payment-solutions-specialist.html": {
+    "title": "Lead Global Payment Solutions Specialist - FlowSwipe - Webflow HTML website template",
+    "desc": "Driving innovation in payment systems, ensuring smooth, secure, and efficient transactions across platforms worldwide.",
+    "sectionCount": 5,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "Technology",
+          "Lead Global Payment Solutions Specialist",
+          "Driving innovation in payment systems, ensuring smooth, secure, and efficient transactions across platforms worldwide.",
+          "Apply"
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Posted On",
+          "January 16, 2026",
+          "Role",
+          "Accountant",
+          "Type",
+          "Full Time",
+          "Location",
+          "Melbourne",
+          "Job Introduction",
+          "Join a dynamic, innovative team at the forefront of digital banking and fintech solutions. This role empowers you to drive impactful projects, enhance financial products, and shape the future of payments. Collaborate with talented professionals, leverage cutting-edge technologies, and deliver seamless, secure, and efficient experiences for clients worldwide.",
+          "Your Mission",
+          "Deliver seamless digital banking experiences that empower customers with fast and secure transactions worldwide.",
+          "Drive innovation by developing cutting-edge fintech solutions that simplify payments and financial management.",
+          "Enhance user satisfaction by providing intuitive, reliable, and accessible banking tools for all clients.",
+          "Promote financial inclusion through smart products that reach diverse users globally with ease and security.",
+          "Collaborate with cross-functional teams to implement efficient, scalable, and impactful banking solutions.",
+          "Maintain the highest standards of data security, compliance, and ethical practices across all financial operations.",
+          "Superpowers You Will Need",
+          "Analytical thinking to solve complex problems and optimize fintech products for efficiency and growth.",
+          "Strong communication skills to collaborate effectively across global teams and stakeholders.",
+          "Innovative mindset to create cutting-edge solutions in digital banking and payment systems.",
+          "Adaptability and resilience to thrive in a fast-paced, constantly evolving fintech environment.",
+          "Attention to detail to ensure accuracy, security, and compliance in all financial operations.",
+          "Customer-centric approach to design products and experiences that truly empower users.",
+          "Our Culture and Your Benefits",
+          "Join a collaborative and innovative workplace where your ideas truly matter and growth is actively encouraged every single day. Enjoy a culture that values creativity, teamwork, and professional development while providing flexible work options, comprehensive health and wellness programs, and opportunities to make a meaningful impact. Experience a supportive environment that balances career success with personal well-being.",
+          "Key Highlights",
+          "Top Notch Culture",
+          "Highly rated",
+          "Competitive Pay"
+        ],
+        "imgCount": 3,
+        "imgs": [
+          "6965e2397680c8bf0f8fa812_highilight-icon-1.svg",
+          "6965e2331dc9fed775a977a6_highilight-icon-2.svg",
+          "6965e2357398f57d9e51ceac_highilight-icon-3.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Similar Positions",
+          "Explore All Positions",
+          "Part Time",
+          "Principal Lead Fintech Product Manager",
+          "Leading fintech product initiatives, driving innovation, and ensuring seamless, secure, and efficient financial solutions.",
+          "4+ Years",
+          "Chicago",
+          "Apply",
+          "Full Time",
+          "Senior Customer Experience Strategist",
+          "Enhancing every customer interaction by designing seamless, engaging experiences that build trust and satisfaction.",
+          "9+ Years",
+          "San Francisco",
+          "Apply",
+          "Full Time",
+          "Chief Blockchain Integration Engineer",
+          "Driving the development of blockchain systems that ensure secure, seamless, and scalable digital transactions.",
+          "5+ Years",
+          "Toronto",
+          "Apply"
+        ],
+        "imgCount": 9,
+        "imgs": [
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "careers__principal-lead-fintech-product-manager.html": {
+    "title": "Principal Lead Fintech Product Manager - FlowSwipe - Webflow HTML website template",
+    "desc": "Leading fintech product initiatives, driving innovation, and ensuring seamless, secure, and efficient financial solutions.",
+    "sectionCount": 5,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "Technology",
+          "Principal Lead Fintech Product Manager",
+          "Leading fintech product initiatives, driving innovation, and ensuring seamless, secure, and efficient financial solutions.",
+          "Apply"
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Posted On",
+          "January 16, 2026",
+          "Role",
+          "Manager",
+          "Type",
+          "Part Time",
+          "Location",
+          "Chicago",
+          "Job Introduction",
+          "Join a dynamic, innovative team at the forefront of digital banking and fintech solutions. This role empowers you to drive impactful projects, enhance financial products, and shape the future of payments. Collaborate with talented professionals, leverage cutting-edge technologies, and deliver seamless, secure, and efficient experiences for clients worldwide.",
+          "Your Mission",
+          "Deliver seamless digital banking experiences that empower customers with fast and secure transactions worldwide.",
+          "Drive innovation by developing cutting-edge fintech solutions that simplify payments and financial management.",
+          "Enhance user satisfaction by providing intuitive, reliable, and accessible banking tools for all clients.",
+          "Promote financial inclusion through smart products that reach diverse users globally with ease and security.",
+          "Collaborate with cross-functional teams to implement efficient, scalable, and impactful banking solutions.",
+          "Maintain the highest standards of data security, compliance, and ethical practices across all financial operations.",
+          "Superpowers You Will Need",
+          "Analytical thinking to solve complex problems and optimize fintech products for efficiency and growth.",
+          "Strong communication skills to collaborate effectively across global teams and stakeholders.",
+          "Innovative mindset to create cutting-edge solutions in digital banking and payment systems.",
+          "Adaptability and resilience to thrive in a fast-paced, constantly evolving fintech environment.",
+          "Attention to detail to ensure accuracy, security, and compliance in all financial operations.",
+          "Customer-centric approach to design products and experiences that truly empower users.",
+          "Our Culture and Your Benefits",
+          "Join a collaborative and innovative workplace where your ideas truly matter and growth is actively encouraged every single day. Enjoy a culture that values creativity, teamwork, and professional development while providing flexible work options, comprehensive health and wellness programs, and opportunities to make a meaningful impact. Experience a supportive environment that balances career success with personal well-being.",
+          "Key Highlights",
+          "Top Notch Culture",
+          "Highly rated",
+          "Competitive Pay"
+        ],
+        "imgCount": 3,
+        "imgs": [
+          "6965e2397680c8bf0f8fa812_highilight-icon-1.svg",
+          "6965e2331dc9fed775a977a6_highilight-icon-2.svg",
+          "6965e2357398f57d9e51ceac_highilight-icon-3.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Similar Positions",
+          "Explore All Positions",
+          "Full Time",
+          "Lead Global Payment Solutions Specialist",
+          "Driving innovation in payment systems, ensuring smooth, secure, and efficient transactions across platforms worldwide.",
+          "9+ Years",
+          "Melbourne",
+          "Apply",
+          "Full Time",
+          "Senior Customer Experience Strategist",
+          "Enhancing every customer interaction by designing seamless, engaging experiences that build trust and satisfaction.",
+          "9+ Years",
+          "San Francisco",
+          "Apply",
+          "Full Time",
+          "Chief Blockchain Integration Engineer",
+          "Driving the development of blockchain systems that ensure secure, seamless, and scalable digital transactions.",
+          "5+ Years",
+          "Toronto",
+          "Apply"
+        ],
+        "imgCount": 9,
+        "imgs": [
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "careers__senior-customer-experience-strategist.html": {
+    "title": "Senior Customer Experience Strategist - FlowSwipe - Webflow HTML website template",
+    "desc": "Enhancing every customer interaction by designing seamless, engaging experiences that build trust and satisfaction.",
+    "sectionCount": 5,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "Security",
+          "Senior Customer Experience Strategist",
+          "Enhancing every customer interaction by designing seamless, engaging experiences that build trust and satisfaction.",
+          "Apply"
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Posted On",
+          "January 16, 2026",
+          "Role",
+          "Marketing",
+          "Type",
+          "Full Time",
+          "Location",
+          "San Francisco",
+          "Job Introduction",
+          "Join a dynamic, innovative team at the forefront of digital banking and fintech solutions. This role empowers you to drive impactful projects, enhance financial products, and shape the future of payments. Collaborate with talented professionals, leverage cutting-edge technologies, and deliver seamless, secure, and efficient experiences for clients worldwide.",
+          "Your Mission",
+          "Deliver seamless digital banking experiences that empower customers with fast and secure transactions worldwide.",
+          "Drive innovation by developing cutting-edge fintech solutions that simplify payments and financial management.",
+          "Enhance user satisfaction by providing intuitive, reliable, and accessible banking tools for all clients.",
+          "Promote financial inclusion through smart products that reach diverse users globally with ease and security.",
+          "Collaborate with cross-functional teams to implement efficient, scalable, and impactful banking solutions.",
+          "Maintain the highest standards of data security, compliance, and ethical practices across all financial operations.",
+          "Superpowers You Will Need",
+          "Analytical thinking to solve complex problems and optimize fintech products for efficiency and growth.",
+          "Strong communication skills to collaborate effectively across global teams and stakeholders.",
+          "Innovative mindset to create cutting-edge solutions in digital banking and payment systems.",
+          "Adaptability and resilience to thrive in a fast-paced, constantly evolving fintech environment.",
+          "Attention to detail to ensure accuracy, security, and compliance in all financial operations.",
+          "Customer-centric approach to design products and experiences that truly empower users.",
+          "Our Culture and Your Benefits",
+          "Join a collaborative and innovative workplace where your ideas truly matter and growth is actively encouraged every single day. Enjoy a culture that values creativity, teamwork, and professional development while providing flexible work options, comprehensive health and wellness programs, and opportunities to make a meaningful impact. Experience a supportive environment that balances career success with personal well-being.",
+          "Key Highlights",
+          "Top Notch Culture",
+          "Highly rated",
+          "Competitive Pay"
+        ],
+        "imgCount": 3,
+        "imgs": [
+          "6965e2397680c8bf0f8fa812_highilight-icon-1.svg",
+          "6965e2331dc9fed775a977a6_highilight-icon-2.svg",
+          "6965e2357398f57d9e51ceac_highilight-icon-3.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Similar Positions",
+          "Explore All Positions",
+          "Part Time",
+          "Principal Lead Fintech Product Manager",
+          "Leading fintech product initiatives, driving innovation, and ensuring seamless, secure, and efficient financial solutions.",
+          "4+ Years",
+          "Chicago",
+          "Apply",
+          "Full Time",
+          "Lead Global Payment Solutions Specialist",
+          "Driving innovation in payment systems, ensuring smooth, secure, and efficient transactions across platforms worldwide.",
+          "9+ Years",
+          "Melbourne",
+          "Apply",
+          "Full Time",
+          "Chief Blockchain Integration Engineer",
+          "Driving the development of blockchain systems that ensure secure, seamless, and scalable digital transactions.",
+          "5+ Years",
+          "Toronto",
+          "Apply"
+        ],
+        "imgCount": 9,
+        "imgs": [
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "careers__senior-financial-technology-advisor.html": {
+    "title": "Senior Financial Technology Advisor - FlowSwipe - Webflow HTML website template",
+    "desc": "Providing expert guidance on financial technology strategies to deliver secure, innovative, and efficient solutions.",
+    "sectionCount": 5,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "Finance",
+          "Senior Financial Technology Advisor",
+          "Providing expert guidance on financial technology strategies to deliver secure, innovative, and efficient solutions.",
+          "Apply"
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Posted On",
+          "January 9, 2026",
+          "Role",
+          "Consulting",
+          "Type",
+          "Part Time",
+          "Location",
+          "New York",
+          "Job Introduction",
+          "Join a dynamic, innovative team at the forefront of digital banking and fintech solutions. This role empowers you to drive impactful projects, enhance financial products, and shape the future of payments. Collaborate with talented professionals, leverage cutting-edge technologies, and deliver seamless, secure, and efficient experiences for clients worldwide.",
+          "Your Mission",
+          "Deliver seamless digital banking experiences that empower customers with fast and secure transactions worldwide.",
+          "Drive innovation by developing cutting-edge fintech solutions that simplify payments and financial management.",
+          "Enhance user satisfaction by providing intuitive, reliable, and accessible banking tools for all clients.",
+          "Promote financial inclusion through smart products that reach diverse users globally with ease and security.",
+          "Collaborate with cross-functional teams to implement efficient, scalable, and impactful banking solutions.",
+          "Maintain the highest standards of data security, compliance, and ethical practices across all financial operations.",
+          "Superpowers You Will Need",
+          "Analytical thinking to solve complex problems and optimize fintech products for efficiency and growth.",
+          "Strong communication skills to collaborate effectively across global teams and stakeholders.",
+          "Innovative mindset to create cutting-edge solutions in digital banking and payment systems.",
+          "Adaptability and resilience to thrive in a fast-paced, constantly evolving fintech environment.",
+          "Attention to detail to ensure accuracy, security, and compliance in all financial operations.",
+          "Customer-centric approach to design products and experiences that truly empower users.",
+          "Our Culture and Your Benefits",
+          "Join a collaborative and innovative workplace where your ideas truly matter and growth is actively encouraged every single day. Enjoy a culture that values creativity, teamwork, and professional development while providing flexible work options, comprehensive health and wellness programs, and opportunities to make a meaningful impact. Experience a supportive environment that balances career success with personal well-being.",
+          "Key Highlights",
+          "Top Notch Culture",
+          "Highly rated",
+          "Competitive Pay"
+        ],
+        "imgCount": 3,
+        "imgs": [
+          "6965e2397680c8bf0f8fa812_highilight-icon-1.svg",
+          "6965e2331dc9fed775a977a6_highilight-icon-2.svg",
+          "6965e2357398f57d9e51ceac_highilight-icon-3.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Similar Positions",
+          "Explore All Positions",
+          "Part Time",
+          "Principal Lead Fintech Product Manager",
+          "Leading fintech product initiatives, driving innovation, and ensuring seamless, secure, and efficient financial solutions.",
+          "4+ Years",
+          "Chicago",
+          "Apply",
+          "Full Time",
+          "Lead Global Payment Solutions Specialist",
+          "Driving innovation in payment systems, ensuring smooth, secure, and efficient transactions across platforms worldwide.",
+          "9+ Years",
+          "Melbourne",
+          "Apply",
+          "Full Time",
+          "Senior Customer Experience Strategist",
+          "Enhancing every customer interaction by designing seamless, engaging experiences that build trust and satisfaction.",
+          "9+ Years",
+          "San Francisco",
+          "Apply"
+        ],
+        "imgCount": 9,
+        "imgs": [
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "6965ffdf7cea53bd6da3305a_Clock.svg",
+          "696604a6a6ad13458e667860_BagSimple.svg",
+          "69492a82712ca619de86bf52_location.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "changelog.html": {
+    "title": "Changelog - FlowSwipe - Webflow HTML website template",
+    "desc": "Explore the latest updates, improvements, and changes made to this smart card payment Webflow template.",
+    "sectionCount": 4,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "Changelog",
+          "Follow here For Template Updates"
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "section-small",
+        "textSample": [
+          "Version 1.0",
+          "FlowSwipe Template - Released",
+          "08-04-2026"
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "contact.html": {
+    "title": "Contact - FlowSwipe - Webflow HTML website template",
+    "desc": "Contact our team to learn more about smart card payments, explore available features, or get help with your questions.",
+    "sectionCount": 5,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "Contact Us",
+          "Let us know how can we help",
+          "Got something in mind? We&#x27;d love to help.",
+          "Support",
+          "Get fast, reliable assistance whenever you need help.",
+          "support@flowswipe.com",
+          "Live Chat",
+          "Connect with our team for real-time support.",
+          "Chat With Us",
+          "Help Centre",
+          "Find answers and guidance quickly in our Help Centre.",
+          "Learn More"
+        ],
+        "imgCount": 7,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "696748643dbfd393b7a9b91e_Headphone%20Image.avif",
+          "6989a38ec0bb4fc35d19c80d_09c4eca8ff8b3c3232132f1419aa260b_integration-img-1-bg.avif",
+          "696749f167c9fc6051161020_Message%20Image.avif",
+          "6989a38ec0bb4fc35d19c80d_09c4eca8ff8b3c3232132f1419aa260b_integration-img-1-bg.avif",
+          "696749fa06daef628f6d3b38_Exclamation%20Image.avif",
+          "6989a38ec0bb4fc35d19c80d_09c4eca8ff8b3c3232132f1419aa260b_integration-img-1-bg.avif"
+        ]
+      },
+      {
+        "className": "contact-section",
+        "textSample": [
+          "Frequently used communication",
+          "Access the most common communication tools for fast and effective messaging.",
+          "Your Information",
+          "Name",
+          "Email",
+          "Phone Number",
+          "Company",
+          "Message",
+          "Thank you for reaching out! Your message has been submitted successfully. Our team will get back to you soon.",
+          "Oops! Something went wrong while submitting your message. Please try again or contact us directly."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Frequently asked questions",
+          "Find answers to common questions and get quick, helpful guidance easily.",
+          "How to pre-book my card?",
+          "Pre-booking your card is simple and fast. Just fill out the online form, provide necessary details, and you’ll receive instant confirmation and notifications immediately.",
+          "How to manage transactions?",
+          "Track and manage all payments via the app or dashboard easily. You can view spending, receive alerts, and control your card settings anytime, anywhere securely.",
+          "Is my data secure?",
+          "Yes, all personal and financial data is fully encrypted with advanced security measures, guaranteeing complete privacy and safe transactions across all platforms.",
+          "Can I use globally?",
+          "Absolutely! The card works worldwide, accepted at major merchants, ATMs, and online platforms, making international payments smooth and hassle-free."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "features.html": {
+    "title": "Features - FlowSwipe - Webflow HTML website template",
+    "desc": "Explore smart card features, secure transactions, instant payments, and digital tools designed to simplify everyday payments and improve banking experiences.",
+    "sectionCount": 7,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "Features",
+          "Beyond Payments Into Lifestyle",
+          "Step into a world where payments meet lifestyle with smart features, effortless financial tools, and exclusive rewards."
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Manage global payments with ease",
+          "Move money around the world easily and effortlessly with a setup that keeps your transactions quick and secure.",
+          "Money Stream",
+          "Secure Money Transfers",
+          "Cultural Homogenization",
+          "Impact on local traditions",
+          "Global Connect",
+          "Fast Global Transfers",
+          "Get Your Card"
+        ],
+        "imgCount": 4,
+        "imgs": [
+          "694e2c6523cf80d39cb322ab_Grains.svg",
+          "6989a5ae0b4f5a0337de72fc_ApplePodcastsLogo.svg",
+          "69c371ba117a94f195513c96_globe-icon.svg",
+          "694e283a1808d755ac2c4307_2215b720cec904a5cf7e81a6d83d9eb3_payment-img.webp"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Global Acceptance with Smart Safety",
+          "Enjoy seamless payments anywhere with built-in smart safety that protects every tap. Move with confidence, access global networks, and keep your transactions simple and secure.",
+          "Quality",
+          "World-Class Microchips",
+          "High-grade chips power smooth transactions with strong protection.",
+          "Security",
+          "Tamper Resistance",
+          "Built to prevent interference and keep your card secure at all times.",
+          "Range",
+          "Eco-Friendly Materials",
+          "Made from sustainable materials, protecting the environment.",
+          "Ease",
+          "Next-Gen Technology",
+          "Modern solutions made to deliver quick, smart, and efficient results.",
+          "Ease",
+          "Smart Digital Integration",
+          "Smart systems sync your payments and data for easy, secure use.",
+          "Range",
+          "Global Acceptance",
+          "Accepted globally, your card works easily in stores, apps, and ATMs."
+        ],
+        "imgCount": 12,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "694a3d60d28e90fe00b32e65_1a13d599c4b787b680d0cfae14e4f4ed_features-img-2.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "695259e0dfe082e7453b68f7_features-lock-img.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "69525afb9e4fc1a3e9febe86_features-case-img.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "69525bd3a299a1f8467c555d_e0fc689f34f70f7f81e88b6ae7413595_features-coin-img.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "694a3df165b4f60fcc0a7649_features-img-3.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "6989a813091c04a2f23c6143_features-img-6.avif"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Digital integration with one smart app",
+          "Download App",
+          "Wallet Integration",
+          "Connect your card to wallet apps to enjoy smooth, easy payments.",
+          "Real Time Notifications",
+          "Receive fast alerts that keep you aware of every activity.",
+          "Quick Alerts",
+          "Instant Updates",
+          "Advanced Analytics Dashboard",
+          "View detailed insights and simple charts that help you stay in control of your spending every day."
+        ],
+        "imgCount": 7,
+        "imgs": [
+          "698c54e21450fcfb0773eb1c_592555471bb2574c9b05da564117fddf_integration-img-1-details.png",
+          "698c54501841c75d9b79531e_integration-img-1-new.avif",
+          "6989a38ec0bb4fc35d19c80d_09c4eca8ff8b3c3232132f1419aa260b_integration-img-1-bg.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "694e22d935c2aa0e642f1f03_integration-img-2.avif",
+          "694e2699a8ee83c48fa0a080_3a5e04130ac78d942f5aa55aec296db7_integration-img-3.webp"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Frequently asked questions",
+          "Find answers to common questions and get quick, helpful guidance easily.",
+          "How to pre-book my card?",
+          "Pre-booking your card is simple and fast. Just fill out the online form, provide necessary details, and you’ll receive instant confirmation and notifications immediately.",
+          "How to manage transactions?",
+          "Track and manage all payments via the app or dashboard easily. You can view spending, receive alerts, and control your card settings anytime, anywhere securely.",
+          "Is my data secure?",
+          "Yes, all personal and financial data is fully encrypted with advanced security measures, guaranteeing complete privacy and safe transactions across all platforms.",
+          "Can I use globally?",
+          "Absolutely! The card works worldwide, accepted at major merchants, ATMs, and online platforms, making international payments smooth and hassle-free."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "home.html": {
+    "title": "FlowSwipe - Webflow HTML website template",
+    "desc": "Discover smart card payment solutions with secure transactions and seamless payments designed to simplify digital banking and everyday purchases.",
+    "sectionCount": 11,
+    "sections": [
+      {
+        "className": "banner-section home",
+        "textSample": [
+          "Control Every Transaction",
+          "Simplify Payments With One Smart Card",
+          "Manage all your purchases securely using a single smart card that streamlines payments and keeps spending simple.",
+          "Get a Free Card",
+          "Titanium Card",
+          "NFC - Access",
+          "Chip Intelligence",
+          "Anti - Theft"
+        ],
+        "imgCount": 8,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "698c4fdde72fb7b630c694c2_9e569bbcbe9076a55511208b12bbb84c_Card.webp",
+          "694a2dfa91cc3e80813307cf_5a12ed3417ce6ac3f3320a7007a6b8bc_Card%20Cover.svg",
+          "694a30eb46f2e40579c4439e_898ebad10d8894d22148514903f3294b_Arc.svg",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [],
+        "imgCount": 18,
+        "imgs": [
+          "694a39453aecb38b463e9754_logo-01.svg",
+          "694a39919b4a755c5878584a_logo-02.svg",
+          "694a3999607a1c7c86922aa3_logo-03.svg",
+          "694a39a1687f377ba71b4a8d_logo-04.svg",
+          "694a39d4d8100755ed75d566_logo-06.svg",
+          "694a39e0f3e54657b0081073_logo-07.svg",
+          "694a39453aecb38b463e9754_logo-01.svg",
+          "694a39919b4a755c5878584a_logo-02.svg",
+          "694a3999607a1c7c86922aa3_logo-03.svg",
+          "694a39a1687f377ba71b4a8d_logo-04.svg",
+          "694a39d4d8100755ed75d566_logo-06.svg",
+          "694a39e0f3e54657b0081073_logo-07.svg",
+          "694a39453aecb38b463e9754_logo-01.svg",
+          "694a39919b4a755c5878584a_logo-02.svg",
+          "694a3999607a1c7c86922aa3_logo-03.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Global Acceptance with Smart Safety",
+          "Enjoy seamless payments anywhere with built-in smart safety that protects every tap. Move with confidence, access global networks, and keep your transactions simple and secure.",
+          "Security",
+          "Tamper Resistance",
+          "Built to prevent interference and keep your card secure at all times.",
+          "Quality",
+          "World-Class Microchips",
+          "High-grade chips power smooth transactions with strong protection.",
+          "Ease",
+          "Smart Digital Integration",
+          "Smart systems sync your payments and data for easy, secure use.",
+          "Range",
+          "Global Acceptance",
+          "Accepted globally, your card works easily in stores, apps, and ATMs.",
+          "Book A Call"
+        ],
+        "imgCount": 6,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "694a3d60d28e90fe00b32e65_1a13d599c4b787b680d0cfae14e4f4ed_features-img-2.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "694a3df165b4f60fcc0a7649_features-img-3.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "This isn’t just another card, it’s the future.",
+          "More than a card, it’s a future-ready tool that makes payments simple, secure, and effortless."
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "698c4fdde72fb7b630c694c2_9e569bbcbe9076a55511208b12bbb84c_Card.webp"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Digital integration with one smart app",
+          "Download App",
+          "Wallet Integration",
+          "Connect your card to wallet apps to enjoy smooth, easy payments.",
+          "Real Time Notifications",
+          "Receive fast alerts that keep you aware of every activity.",
+          "Quick Alerts",
+          "Instant Updates",
+          "Advanced Analytics Dashboard",
+          "View detailed insights and simple charts that help you stay in control of your spending every day."
+        ],
+        "imgCount": 7,
+        "imgs": [
+          "698c54e21450fcfb0773eb1c_592555471bb2574c9b05da564117fddf_integration-img-1-details.png",
+          "698c54501841c75d9b79531e_integration-img-1-new.avif",
+          "6989a38ec0bb4fc35d19c80d_09c4eca8ff8b3c3232132f1419aa260b_integration-img-1-bg.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "694e22d935c2aa0e642f1f03_integration-img-2.avif",
+          "694e2699a8ee83c48fa0a080_3a5e04130ac78d942f5aa55aec296db7_integration-img-3.webp"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Manage global payments with ease",
+          "Move money around the world easily and effortlessly with a setup that keeps your transactions quick and secure.",
+          "Money Stream",
+          "Secure Money Transfers",
+          "Cultural Homogenization",
+          "Impact on local traditions",
+          "Global Connect",
+          "Fast Global Transfers",
+          "Get Your Card"
+        ],
+        "imgCount": 4,
+        "imgs": [
+          "694e2c6523cf80d39cb322ab_Grains.svg",
+          "6989a5ae0b4f5a0337de72fc_ApplePodcastsLogo.svg",
+          "69c371ba117a94f195513c96_globe-icon.svg",
+          "694e283a1808d755ac2c4307_2215b720cec904a5cf7e81a6d83d9eb3_payment-img.webp"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Voices that truly define our greatness",
+          "Financial Advisor",
+          "Reach out whenever you need support, with friendly assistance always readily available to help guide you.",
+          "Liam Foster",
+          "Financial Advisor - USA",
+          "Operations Manager",
+          "Account Manager",
+          "Managing payments worldwide has never been easier, ensuring fast, secure, and hassle-free transactions every time.",
+          "Johanna Wilson",
+          "Account Manager - UK",
+          "Executive Member",
+          "Client Relations",
+          "Global payments feel seamless, and I love the smart, instant notifications that arrive every time they occur.",
+          "Orion Okahoma",
+          "Client Relations - Italy",
+          "Financial Advisor",
+          "Operations Manager",
+          "Every payment I make is secure and tracked in real-time without any hassle, worry, unexpected delays or stress.",
+          "Emma Brown",
+          "Operations Manager - Brazil",
+          "Executive Member"
+        ],
+        "imgCount": 28,
+        "imgs": [
+          "698c583fc25e7b6bda9eb394_testimonial-img-02.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "694e321b443a7905a3652aff_quote.svg",
+          "694e2fe098bd68220e415922_testimonial-img-01.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "6965dcf9545eb9d499e750ce_career-testimonial-img.avif",
+          "6a5ef907c79728b9ccb860b3_play-icon.svg",
+          "69c376ecf9d0633bda1cfea7_testimonial-img-04.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "694e321b443a7905a3652aff_quote.svg",
+          "698c584a70164f409e0204f4_testimonial-img-03.avif",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "69c378b80fc02305c24d070f_career-testimonial-img-02.avif",
+          "6a5ef907c79728b9ccb860b3_play-icon.svg",
+          "694e2fe098bd68220e415922_testimonial-img-01.avif"
+        ]
+      },
+      {
+        "className": "credit-card-section",
+        "textSample": [
+          "Pre book your card today",
+          "Reserve your smart card now and enjoy fast, secure global payments with seamless digital integration.",
+          "13 Years",
+          "15+ Curated Deals",
+          "Book Your Card"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "694e3a9ede85799923ced710_Hand%20Image.avif",
+          "698c4fdde72fb7b630c694c2_9e569bbcbe9076a55511208b12bbb84c_Card.webp",
+          "694e3c4279361502f8c2ac90_hand-bg-icons.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Our blogs that inspire ideas and innovation",
+          "Browse All Blogs",
+          "Technology",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "Smart Spending Habits for a More Balanced and Secure Financial Life",
+          "View more",
+          "Security",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "A Practical Guide to effortless expense reporting made simple and smart",
+          "View more",
+          "Finance",
+          "14",
+          "-",
+          "Jan",
+          "-",
+          "2026",
+          "Smart Collector Tips for global currency coins timeless, diverse, and valuable",
+          "View more"
+        ],
+        "imgCount": 6,
+        "imgs": [
+          "6a86f9514d56dcd012b360d4_How%20to%20Enabling%20global%20spending%20with%20ease%20and%20growing%20confidence%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f939e4ee84e35bf71859_A%20Practical%20Guide%20to%20effortless%20expense%20reporting%20made%20simple%20and%20smart%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg",
+          "6a86f8e2159f820439e9f4b6_Smart%20Collector%20Tips%20for%20global%20currency%20coins%20timeless%2C%20diverse%2C%20and%20valuable%20thumbnail.avif",
+          "69661cd98b9dab78fdae8c5d_arrow.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "index.html": {
+    "title": "FlowSwipe - Webflow HTML website template",
+    "desc": "Discover smart card payment solutions with secure transactions and seamless payments designed to simplify digital banking and everyday purchases.",
+    "sectionCount": 9,
+    "sections": [
+      {
+        "className": "splash-banner-section",
+        "textSample": [
+          "Simplify payments with one smart card",
+          "Sprout’s Analytics tools speed up and automate data collection.",
+          "Explore Pages",
+          "Buy Template"
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "splash-animation-section",
+        "textSample": [],
+        "imgCount": 20,
+        "imgs": [
+          "6ae836daeb208fddd507684d_5af82d09f979b2bcda78e8214ffffe40_animation-image-1.jpg",
+          "6ae836daeb208fddd507685f_9a35eed7290904814fb671230501a1e8_animation-image-2.jpg",
+          "6ae836daeb208fddd5076853_36063a114863b7e0dab3279465bb4147_animation-image-3.jpg",
+          "6ae836daeb208fddd5076865_c90245dd9b3160a3ddac655742f8ab2a_animation-image-4.jpg",
+          "6ae836d9eb208fddd507683d_9f1cda5d490d1c29fb1ca76e494f6191_animation-image-5.jpg",
+          "6ae836daeb208fddd507684d_5af82d09f979b2bcda78e8214ffffe40_animation-image-1.jpg",
+          "6ae836daeb208fddd507685f_9a35eed7290904814fb671230501a1e8_animation-image-2.jpg",
+          "6ae836daeb208fddd5076853_36063a114863b7e0dab3279465bb4147_animation-image-3.jpg",
+          "6ae836daeb208fddd5076865_c90245dd9b3160a3ddac655742f8ab2a_animation-image-4.jpg",
+          "6ae836d9eb208fddd507683d_9f1cda5d490d1c29fb1ca76e494f6191_animation-image-5.jpg",
+          "6ae836daeb208fddd5076859_3d20e92dd105a11b0ee9aae6b6324bcf_animation-image-6.jpg",
+          "6ae836daeb208fddd507686b_6c23e1bcaad1b8af2d2cd21a601b2eec_animation-image-7.jpg",
+          "6ae836daeb208fddd5076871_c144dbfa8b2f2a8416556b5dd8e4fd43_animation-image-8.jpg",
+          "6ae836daeb208fddd5076877_576f66256d2918835ff83a7346f115fa_animation-image-9.jpg",
+          "6ae836daeb208fddd507687d_e9d262aa2a89a6cb90ff0e4ae3aeb563_animation-image-10.jpg"
+        ]
+      },
+      {
+        "className": "splash-counter-section",
+        "textSample": [
+          "What is included in FlowSwipe How many pages, sections, components",
+          "13+ Pages",
+          "95+ Sections",
+          "Components"
+        ],
+        "imgCount": 3,
+        "imgs": [
+          "6ae836daeb208fddd5076882_504031fb9031f47d27093d56a4d5fb44_page-image.png",
+          "6ae836daeb208fddd5076886_395f4748f544cfbd8c2ccfa34086a05c_section-image.png",
+          "6ae836daeb208fddd507688a_3705699b94f6985d7e75356c29e2b00b_component-image.png"
+        ]
+      },
+      {
+        "className": "splash-page-section",
+        "textSample": [
+          "Main pages",
+          "Enhance your Extraordinary work techniques with these perfect pages.",
+          "Home",
+          "About Us",
+          "Features",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Careers",
+          "Careers Single",
+          "Contact Us",
+          "Terms",
+          "Buy Template"
+        ],
+        "imgCount": 11,
+        "imgs": [
+          "6ae836daeb208fddd5076899_0ac83c8fcb886d39ba5376174f809d0f_main-image-1.jpg",
+          "6ae836daeb208fddd507689d_2e9195365e329cb2dd867759275d4192_main-image-2.jpg",
+          "6ae836daeb208fddd50768a1_389f13f7843f08773389cc497ec12534_main-image-3.jpg",
+          "6ae836daeb208fddd50768a5_0abce629c1cac3218956767a8ea7051f_main-image-4.jpg",
+          "6ae836daeb208fddd50768a9_2f2cb2c55b3a0ee683637cc98725bf50_main-image-5.jpg",
+          "6ae836daeb208fddd50768ad_1be19f1d2619712d7a47d34f2b4473bf_main-image-6.jpg",
+          "6ae836daeb208fddd50768b1_6f0a3628fd2d70a38a705186b60a3920_main-image-7.jpg",
+          "6ae836daeb208fddd50768b5_9e461571fa9a6dd4724c3ddf76e3a0f3_main-image-8.jpg",
+          "6ae836daeb208fddd50768b9_c5b9739400392a5ee4ae6e05b3c1e759_main-image-9.jpg",
+          "6ae83a73d883432b312c9a93_edfe62fdbfadd1acec3c3cd506d9a526_main-img-10.jpg",
+          "6ae83a73f56a03d13d63581f_main-img-11.jpg"
+        ]
+      },
+      {
+        "className": "splash-asset-section",
+        "textSample": [
+          "Template designed for your growth &amp; We build everything in standards",
+          "Creative template crafted for growth, built with industry standards in mind.",
+          "Style-guide",
+          "A full-style guide builds consistent, quality writing across all platforms and mediums.",
+          "Open Source Fonts",
+          "Creative template crafted for growth, built with industry standards in mind.",
+          "Open Source Icons",
+          "Collaborative, free, and diverse icons for global accessibility and creative initiatives.",
+          "Designed on Figma",
+          "Crafted perfectly with Figma, An design interface tool that helps to guarantee precision and efficiency in development."
+        ],
+        "imgCount": 2,
+        "imgs": [
+          "6ae836daeb208fddd50768d1_077f2a5d1eb5ccb0fe9513e6c88301db_styleguide-image.png",
+          "6ae836daeb208fddd50768e2_d149070e115bf0539371265ef1d704e5_designer-arrow.svg"
+        ]
+      },
+      {
+        "className": "splash-feature-section",
+        "textSample": [
+          "Essential features",
+          "This critical, important, and fundamental capability is defined by specific features.",
+          "Responsive Design",
+          "Speed Optimized",
+          "Scrolling Animations",
+          "Cross-Browser Compatible",
+          "Interactions &amp; Animations",
+          "SEO Friendly",
+          "Fully Customizable",
+          "Zero Coding Knowledge"
+        ],
+        "imgCount": 8,
+        "imgs": [
+          "6ae836daeb208fddd50768f3_feature-icon-1.svg",
+          "6ae836daeb208fddd50768f4_feature-icon-2.svg",
+          "6ae836daeb208fddd50768f5_feature-icon-3.svg",
+          "6ae836daeb208fddd50768f6_feature-icon-4.svg",
+          "6ae836daeb208fddd50768f7_feature-icon-5.svg",
+          "6ae836daeb208fddd50768f8_feature-icon-6.svg",
+          "6ae836daeb208fddd50768f9_feature-icon-7.svg",
+          "6ae836daeb208fddd50768fa_feature-icon-8.svg"
+        ]
+      },
+      {
+        "className": "splash-cta-section",
+        "textSample": [
+          "Browse all templates",
+          "Templates are precisely designed to offer to your customers delightfully.",
+          "Buy now on Webflow",
+          "Transform your website with our cutting-edge Webflow Template! Ignite potential, captivate audiences, and elevate your online presence.",
+          "Buy Template Now",
+          "Browse our awesome Webflow templates",
+          "Explore our amazing collection of Webflow templates, all designed to help you boost your online presence effortlessly.",
+          "Explore More Templates"
+        ],
+        "imgCount": 4,
+        "imgs": [
+          "6ae836daeb208fddd5076907_defa05ed46f69b4e32f0732d8a5816a0_cta-image-1.png",
+          "6ae836daeb208fddd507690c_webflow-icon.svg",
+          "6ae836daeb208fddd507690e_cta-image-2.png",
+          "6ae836daeb208fddd5076911_victorflow-logo.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "instructions.html": {
+    "title": "Instructions - FlowSwipe - Webflow HTML website template",
+    "desc": "Find helpful instructions for using this smart card payment Webflow template, including setup guidance and customization tips.",
+    "sectionCount": 4,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "Template guide",
+          "Instructions"
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "section-small",
+        "textSample": [
+          "Colours &amp; type",
+          "Change it once, everywhere",
+          "All colours, font sizes, spacing and radii are Variables (Colors, Typography, Spacings). Edit a variable and every page updates. Section spacing uses the Layout variables, which have tablet and mobile modes, so the site stays balanced on every screen.",
+          "‍",
+          "Interactions",
+          "Native Webflow, no code",
+          "Animations are built with Webflow Interactions (GSAP). The Home page has Cards Interaction — find them in the Interactions panel and adjust timing there. The About page has FAQ Interaction — find them in the Interactions panel and adjust timing there.",
+          "‍",
+          "Attribute-based scroll reveal animation",
+          "Controlled using custom data attributes added inside the Webflow Settings panel. This animation smoothly reveals elements as they enter the viewport while scrolling. Each selected element starts hidden and gracefully appears when the user scrolls down. The effect triggers once per element for a smooth browsing experience.",
+          "animate-banner=slide-top",
+          "- This marks the specific element that should animate on page load.",
+          "animate-banner=grow -",
+          "This marks the specific element that should animate on page load.",
+          "animate-banner=slide-left -",
+          "This marks the specific element that should animate on page load.",
+          "image-banner=reveal -",
+          "This marks the specific element that should animate on page load.",
+          "‍",
+          "animate=grow",
+          "- This marks the specific element that should animate.",
+          "animate=slide-top",
+          "- This marks the specific element that should animate.",
+          "image=reveal",
+          "- This marks the specific element that should animate.",
+          "card=wrap",
+          "- This acts as the parent scroll trigger container.",
+          "card=item",
+          "- This marks the specific element that should animate.",
+          "‍"
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "licenses.html": {
+    "title": "Licenses - FlowSwipe - Webflow HTML website template",
+    "desc": "View the licenses for fonts, images, icons, and other assets used in this smart card payment Webflow template.",
+    "sectionCount": 4,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "Assets",
+          "Licenses",
+          "All graphical assets in this template are licensed for personal and commercial use. If you&#x27;d like to use a specific asset, please check the license below."
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Icon and Graphics",
+          "The iconography used in",
+          "FlowSwipe",
+          "Webflow Template are licensed for free personal and commercial use. If you&#x27;d like to use any specific Icon, you can check the licenses and download the images for free on phosphoricons.",
+          "Phosphoricons :",
+          "Licenses",
+          "Photography &amp; Video",
+          "All images used in the",
+          "FlowSwipe",
+          "Webflow Template are licensed for free personal and commercial use. If you&#x27;d like to use any specific image, you can check the licenses and download the images for free.",
+          "Lummi AI :",
+          "Licenses",
+          "Image 1,",
+          "Image 2,",
+          "Image 3,",
+          "Image 4,",
+          "Image 5,",
+          "Image 6,",
+          "Image 7,",
+          "Image 8.",
+          "Unsplash :",
+          "Licenses",
+          "Image 1,",
+          "Image 2,",
+          "Image 3,",
+          "Image 4,",
+          "Image 5.",
+          "Font",
+          "FlowSwipe",
+          "template uses free licensed"
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "style-guide.html": {
+    "title": "Style Guide - FlowSwipe - Webflow HTML website template",
+    "desc": "Explore the typography, colors, buttons, and design elements included in this smart card payment Webflow template.",
+    "sectionCount": 4,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "System",
+          "Style Guide"
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Colors",
+          "The primary colours and Text Shades are consistently used through out the website.",
+          "Primary",
+          "#C45003",
+          "Text White",
+          "#FFFFFF",
+          "Text Light",
+          "#CCCCCC",
+          "Text Grey",
+          "#b6b6b6",
+          "Card Dark BG",
+          "#0F0F0F",
+          "Dark BG",
+          "#080808",
+          "Card Lite Dark BG",
+          "#1f1f1f",
+          "Stroke",
+          "#262626",
+          "Typography",
+          "All Variations in text are presented here.",
+          "Heading",
+          "Heading 1",
+          "Onest Medium",
+          "72 / 120",
+          "Heading 1",
+          "Heading 2",
+          "Onest Semi Bold",
+          "40 / 120",
+          "Heading 2",
+          "Heading 3"
+        ],
+        "imgCount": 9,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "69492b78e46b0d9b1af7fa60_wave-icon.svg",
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "69492c6f1ddedb50c5637b15_7d30f78078cf013afcf961ed0474d239_style-guide-img.avif",
+          "6949110fcb96dd8ac5a4fdb3_play-icon.svg",
+          "6949134c7114b734f4ebb08e_arrow.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "team.html": {
+    "title": "Team - FlowSwipe - Webflow HTML website template",
+    "desc": "Meet the team behind our smart card payment solutions and discover the people driving innovation in secure, seamless, and convenient digital payments.",
+    "sectionCount": 4,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "Team",
+          "Our Expert Family Members",
+          "Meet our expert family members who bring knowledge, experience, and dedication to deliver exceptional results every day."
+        ],
+        "imgCount": 2,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg",
+          "696783dc5a9fb906adf300c9_e915c55fc7435cbdb3f0ae1a9ce90453_Team-banner.avif"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Guided by Principles. Driven by Leadership",
+          "Built on strong principles and unwavering values, our team combines expertise, creativity, and commitment to deliver remarkable solutions and results every day.",
+          "Mark",
+          "Banking Analyst",
+          "Jacob",
+          "Project Manager",
+          "Rodriguez",
+          "Operations Lead"
+        ],
+        "imgCount": 12,
+        "imgs": [
+          "697c7fbe60017be49b92d8bb_team-img-3.avif",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785dd78e6bd8e828eec7b2_Threads.svg",
+          "69785ddf96149ab71236c605_X.svg",
+          "69bceacb56f3101d644e52cd_jacob.avif",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785dd78e6bd8e828eec7b2_Threads.svg",
+          "69785ddf96149ab71236c605_X.svg",
+          "69c3a8bc59afcc547d2a2505_Rodriguez.avif",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785dd78e6bd8e828eec7b2_Threads.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "team__jacob.html": {
+    "title": "Jacob - FlowSwipe - Webflow HTML website template",
+    "desc": "Leading technology initiatives to drive innovation, streamline operations, and deliver secure, efficient digital solutions.",
+    "sectionCount": 3,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "San Francisco",
+          "Jacob",
+          "Project Manager",
+          "5+",
+          "Years Job Experience",
+          "Leading technology initiatives to drive innovation, streamline operations, and deliver secure, efficient digital solutions.",
+          "Project Planning",
+          "Jacob structures project timelines, allocates resources, and ensures clear execution strategies.",
+          "Team Coordination",
+          "He aligns teams, manages communication, and keeps projects on track for timely delivery.",
+          "Tools &amp; Tech",
+          "No items found.",
+          "5+",
+          "Experience Yrs",
+          "165+",
+          "Mentorship Hours",
+          "86+",
+          "Projects",
+          "06",
+          "Awards",
+          "50",
+          "Workshops"
+        ],
+        "imgCount": 9,
+        "imgs": [
+          "69bceacb56f3101d644e52cd_jacob.avif",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785dd78e6bd8e828eec7b2_Threads.svg",
+          "69785ddf96149ab71236c605_X.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "69785bbb2c7a21f24ff1035c_tools-1.svg",
+          "69785bbba2a84df058263fd9_tools-2.svg",
+          "69785bbb47ca8bbc65eebc69_tools-3.svg",
+          "69785bbb80804f025ab1b26e_tools-4.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "team__mark.html": {
+    "title": "Mark - FlowSwipe - Webflow HTML website template",
+    "desc": "Analyzing financial data to drive smarter decisions, optimize processes, and support efficient banking operations.",
+    "sectionCount": 3,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "San Francisco",
+          "Mark",
+          "Banking Analyst",
+          "7+",
+          "Years Job Experience",
+          "Analyzing financial data to drive smarter decisions, optimize processes, and support efficient banking operations.",
+          "Data Analysis",
+          "Mark evaluates financial data, identifies key patterns, and supports strategic banking decisions.",
+          "Market Insights",
+          "He monitors industry trends and provides insights to enhance financial performance and risk management.",
+          "Tools &amp; Tech",
+          "No items found.",
+          "7+",
+          "Experience Yrs",
+          "250+",
+          "Mentorship Hours",
+          "120+",
+          "Projects",
+          "09",
+          "Awards",
+          "85",
+          "Workshops"
+        ],
+        "imgCount": 9,
+        "imgs": [
+          "697c7fbe60017be49b92d8bb_team-img-3.avif",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785dd78e6bd8e828eec7b2_Threads.svg",
+          "69785ddf96149ab71236c605_X.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "69785bbb2c7a21f24ff1035c_tools-1.svg",
+          "69785bbba2a84df058263fd9_tools-2.svg",
+          "69785bbb47ca8bbc65eebc69_tools-3.svg",
+          "69785bbb80804f025ab1b26e_tools-4.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "team__rodriguez.html": {
+    "title": "Rodriguez - FlowSwipe - Webflow HTML website template",
+    "desc": "Overseeing operational strategies to ensure smooth, efficient workflows and seamless performance across all teams.",
+    "sectionCount": 3,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "San Francisco",
+          "Rodriguez",
+          "Operations Lead",
+          "3+",
+          "Years Job Experience",
+          "Overseeing operational strategies to ensure smooth, efficient workflows and seamless performance across all teams.",
+          "Process Optimization",
+          "Rodriguez improves workflows to increase efficiency and reduce operational bottlenecks.",
+          "Operational Oversight",
+          "He manages daily operations, ensuring consistency, productivity, and seamless execution.",
+          "Tools &amp; Tech",
+          "No items found.",
+          "3+",
+          "Experience Yrs",
+          "80+",
+          "Mentorship Hours",
+          "60+",
+          "Projects",
+          "03",
+          "Awards",
+          "34",
+          "Workshops"
+        ],
+        "imgCount": 9,
+        "imgs": [
+          "69c3a8bc59afcc547d2a2505_Rodriguez.avif",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785dd78e6bd8e828eec7b2_Threads.svg",
+          "69785ddf96149ab71236c605_X.svg",
+          "69492a82712ca619de86bf52_location.svg",
+          "69785bbb2c7a21f24ff1035c_tools-1.svg",
+          "69785bbba2a84df058263fd9_tools-2.svg",
+          "69785bbb47ca8bbc65eebc69_tools-3.svg",
+          "69785bbb80804f025ab1b26e_tools-4.svg"
+        ]
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  },
+  "terms-conditions.html": {
+    "title": "Terms &amp; Conditions - FlowSwipe - Webflow HTML website template",
+    "desc": "Review the terms and conditions governing the use of our smart card payment services, website, and related features.",
+    "sectionCount": 4,
+    "sections": [
+      {
+        "className": "banner-section",
+        "textSample": [
+          "Policy",
+          "Guidelines Overview",
+          "Access our privacy policy, terms and conditions, and user guidelines in one clear and simple place."
+        ],
+        "imgCount": 1,
+        "imgs": [
+          "6948f14084b11232fa97b3b7_subtitle-star.svg"
+        ]
+      },
+      {
+        "className": "section-regular",
+        "textSample": [
+          "Privacy Policy",
+          "Terms &amp; Conditions",
+          "User Policy",
+          "Introduction",
+          "Your privacy matters to us. This Privacy Policy explains how we collect, protect, and manage your personal information when you use our website, mobile app, and digital banking services.",
+          "How We Use Your Information",
+          "We collect necessary information to provide secure and seamless financial services.",
+          "Personal Details",
+          "– Name, email, phone number, and identification details for verification and compliance.",
+          "Usage Data",
+          "– Device information, IP address, app activity, and browsing behavior to improve performance.",
+          "How We Use Your Information",
+          "Your information helps us deliver better services and maintain platform security.",
+          "Process transactions, verify identity, provide support, and ensure smooth account management operations efficiently.",
+          "Detect fraud, prevent unauthorized access, and comply with legal and regulatory requirements effectively and consistently.",
+          "Analyze usage patterns to enhance features, personalize experiences, and optimize system performance.",
+          "Conclusion",
+          "We are committed to safeguarding your data with advanced security measures, encryption technologies, and strict access controls. Your information is never sold to third parties, we only share data when required for legal, regulatory, or essential service purposes. By using our platform, you agree to the practices outlined in this policy.",
+          "Acceptance of Terms",
+          "By accessing or using our website and services, you agree to comply with these Terms &amp; Conditions. Please read them carefully before creating an account or using our platform.",
+          "Use of Services",
+          "Users must use our services responsibly and in compliance with all applicable laws.",
+          "Account Responsibility",
+          "– You are responsible for maintaining the confidentiality of your login credentials and account activity.",
+          "Prohibited Activities",
+          "– Unauthorized access, fraud, or illegal activities are strictly prohibited on our platform.",
+          "Payments &amp; Transactions",
+          "All transactions must follow our operational guidelines and regulatory standards.",
+          "Applicable fees, if any, will be clearly disclosed before completing transactions or subscriptions in advance.",
+          "Users must verify transaction details carefully, as completed transactions may not be reversible under policy."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "cta-section",
+        "textSample": [
+          "Get alerts when your card is ready",
+          "Receive instant updates when your card is ready.",
+          "Thank you for subscribing! You’re now on our list to receive the latest updates, news, and insights from us.",
+          "Oops! We couldn’t process your subscription. Please try again in a moment."
+        ],
+        "imgCount": 0,
+        "imgs": []
+      },
+      {
+        "className": "footer",
+        "textSample": [
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "TAP INTO A SMARTER WAY TO PAY. ✦ ONE CARD. EVERY PAYMENT. TOTAL CONTROL. ✦ SEAMLESS PAYMENTS FOR A CASHLESS WORLD. ✦",
+          "Secure and convenient smart card payments enabling fast transactions, enhanced safety, and seamless user experience across devices.",
+          "Preview",
+          "Home",
+          "About Us",
+          "Team",
+          "Team Single",
+          "Blog",
+          "Blog Single",
+          "Features",
+          "Careers",
+          "Career Single",
+          "Contact",
+          "Terms",
+          "Utilities",
+          "Style Guide",
+          "Licenses",
+          "Changelog",
+          "Instructions",
+          "Protected",
+          "Not Found",
+          "Copyright © FlowSwipe Designed by",
+          "VictorFlow",
+          "| Powered by",
+          "Webflow"
+        ],
+        "imgCount": 5,
+        "imgs": [
+          "6a82e06a47aab437135d2296_5daba5ebb55985e0f4ad4f26632527f2_cardflow-white.svg",
+          "69ca1f85487bdc468ef0f69c_fb.svg",
+          "69ca1f7cbb63746a0319ce41_insta.svg",
+          "69785d83594edb5a2d4df6a8_Linkedin.svg",
+          "69785ddf96149ab71236c605_X.svg"
+        ]
+      }
+    ]
+  }
+}
