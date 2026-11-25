@@ -5,13 +5,13 @@
     "name": "showcase",
     "metrics": {
       "bodyBg": "rgb(8, 8, 8)",
-      "headerHeight": 156,
+      "headerHeight": 107,
       "h1Font": "Onest, sans-serif",
       "h1Size": "60px",
       "overflowX": false,
       "brokenImgs": []
     },
-    "heroDiffPercent": 16.44,
+    "heroDiffPercent": 20.66,
     "diffPath": "docs/testing/diffs/showcase-hero-diff.png"
   },
   {
@@ -20,13 +20,13 @@
     "name": "home",
     "metrics": {
       "bodyBg": "rgb(8, 8, 8)",
-      "headerHeight": 156,
+      "headerHeight": 107,
       "h1Font": "Onest, sans-serif",
       "h1Size": "68px",
       "overflowX": false,
       "brokenImgs": []
     },
-    "heroDiffPercent": 5.71,
+    "heroDiffPercent": 4.92,
     "diffPath": "docs/testing/diffs/home-hero-diff.png"
   },
   {
@@ -35,13 +35,13 @@
     "name": "features",
     "metrics": {
       "bodyBg": "rgb(8, 8, 8)",
-      "headerHeight": 156,
+      "headerHeight": 107,
       "h1Font": "Onest, sans-serif",
       "h1Size": "68px",
       "overflowX": false,
       "brokenImgs": []
     },
-    "heroDiffPercent": 6.91,
+    "heroDiffPercent": 3.59,
     "diffPath": "docs/testing/diffs/features-hero-diff.png"
   },
   {
@@ -50,13 +50,13 @@
     "name": "about-us",
     "metrics": {
       "bodyBg": "rgb(8, 8, 8)",
-      "headerHeight": 156,
+      "headerHeight": 107,
       "h1Font": "Onest, sans-serif",
       "h1Size": "68px",
       "overflowX": false,
       "brokenImgs": []
     },
-    "heroDiffPercent": 10.32,
+    "heroDiffPercent": 8.43,
     "diffPath": "docs/testing/diffs/about-us-hero-diff.png"
   },
   {
@@ -65,13 +65,13 @@
     "name": "team",
     "metrics": {
       "bodyBg": "rgb(8, 8, 8)",
-      "headerHeight": 156,
+      "headerHeight": 107,
       "h1Font": "Onest, sans-serif",
       "h1Size": "68px",
       "overflowX": false,
       "brokenImgs": []
     },
-    "heroDiffPercent": 9.83,
+    "heroDiffPercent": 10.61,
     "diffPath": "docs/testing/diffs/team-hero-diff.png"
   },
   {
@@ -80,13 +80,13 @@
     "name": "careers",
     "metrics": {
       "bodyBg": "rgb(8, 8, 8)",
-      "headerHeight": 156,
+      "headerHeight": 107,
       "h1Font": "Onest, sans-serif",
       "h1Size": "68px",
       "overflowX": false,
       "brokenImgs": []
     },
-    "heroDiffPercent": 7.27,
+    "heroDiffPercent": 4.46,
     "diffPath": "docs/testing/diffs/careers-hero-diff.png"
   },
   {
@@ -95,13 +95,13 @@
     "name": "blog",
     "metrics": {
       "bodyBg": "rgb(8, 8, 8)",
-      "headerHeight": 156,
+      "headerHeight": 107,
       "h1Font": "Onest, sans-serif",
       "h1Size": "68px",
       "overflowX": false,
       "brokenImgs": []
     },
-    "heroDiffPercent": 7.12,
+    "heroDiffPercent": 4.91,
     "diffPath": "docs/testing/diffs/blog-hero-diff.png"
   },
   {
@@ -110,13 +110,13 @@
     "name": "contact",
     "metrics": {
       "bodyBg": "rgb(8, 8, 8)",
-      "headerHeight": 156,
+      "headerHeight": 107,
       "h1Font": "Onest, sans-serif",
       "h1Size": "68px",
       "overflowX": false,
       "brokenImgs": []
     },
-    "heroDiffPercent": 6.63,
+    "heroDiffPercent": 4.31,
     "diffPath": "docs/testing/diffs/contact-hero-diff.png"
   },
   {
@@ -125,13 +125,13 @@
     "name": "terms",
     "metrics": {
       "bodyBg": "rgb(8, 8, 8)",
-      "headerHeight": 156,
+      "headerHeight": 107,
       "h1Font": "Onest, sans-serif",
       "h1Size": "68px",
       "overflowX": false,
       "brokenImgs": []
     },
-    "heroDiffPercent": 7.18,
+    "heroDiffPercent": 4.24,
     "diffPath": "docs/testing/diffs/terms-hero-diff.png"
   },
   {
@@ -140,13 +140,13 @@
     "name": "style-guide",
     "metrics": {
       "bodyBg": "rgb(8, 8, 8)",
-      "headerHeight": 156,
+      "headerHeight": 107,
       "h1Font": "Onest, sans-serif",
       "h1Size": "68px",
       "overflowX": false,
       "brokenImgs": []
     },
-    "heroDiffPercent": 15.53,
+    "heroDiffPercent": 12.77,
     "diffPath": "docs/testing/diffs/style-guide-hero-diff.png"
   }
 ]
