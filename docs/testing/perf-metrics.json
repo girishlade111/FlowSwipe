@@ -1,0 +1,44 @@
+{
+  "/": {
+    "domContentLoadedMs": 2469,
+    "loadEventMs": 2471,
+    "lcpMs": null,
+    "cls": 0
+  },
+  "/home": {
+    "domContentLoadedMs": 27,
+    "loadEventMs": 27,
+    "lcpMs": null,
+    "cls": 0
+  },
+  "/features": {
+    "domContentLoadedMs": 42,
+    "loadEventMs": 43,
+    "lcpMs": null,
+    "cls": 0
+  },
+  "/about-us": {
+    "domContentLoadedMs": 40,
+    "loadEventMs": 41,
+    "lcpMs": null,
+    "cls": 0
+  },
+  "/careers": {
+    "domContentLoadedMs": 27,
+    "loadEventMs": 27,
+    "lcpMs": null,
+    "cls": 0
+  },
+  "/blog": {
+    "domContentLoadedMs": 37,
+    "loadEventMs": 38,
+    "lcpMs": null,
+    "cls": 0
+  },
+  "/contact": {
+    "domContentLoadedMs": 24,
+    "loadEventMs": 24,
+    "lcpMs": null,
+    "cls": 0
+  }
+}
